@@ -1,0 +1,19 @@
+{
+  "version": "0.82-page36-confirmatory",
+  "parent_protocol_sha256": "9121fa548fa5ba97c7c072cd0d09b8a0f6ed8a6855c1877c7d8ce08135d8c76a",
+  "artifact_sha256": "3e49e670ddb2c3ef34fef2c4e276620b23bad05636545bd20654f7c13dcb32ec",
+  "selectors": [29, 58, 133, 167, 331, 761, 1033, 3301],
+  "transforms": ["identity", "prime_rank", "nth_prime", "page32_ordinal", "page32_prime"],
+  "address_maps": ["bounded", "wrapped"],
+  "orientations": ["forward", "reverse"],
+  "reading_orders": ["rows_top_to_bottom_ltr", "rows_top_to_bottom_rtl", "rows_bottom_to_top_ltr", "rows_bottom_to_top_rtl", "boustrophedon_ltr_first", "boustrophedon_rtl_first"],
+  "metrics": ["word_mark_hits", "selector_state_matches", "rune_collisions", "reversal_rune_and_mark_concordance", "reversal_row_coincidence", "negative_reversal_distance"],
+  "controls": ["structured_number_family", "circular_order_offset"],
+  "resamples": 20000,
+  "rng_seed": 360091,
+  "family_correction": "Standardize every frozen cell by each control null, then single-step maxT over the complete Page36 family.",
+  "status": "Held-out corroborative/descriptive panel only. It cannot promote a candidate because no discovery counterpart exists.",
+  "geometry_guard": "No 7x13 grid, spiral, or score-selected reading order. 91=7x13 remains observation only.",
+  "red_event_state": false,
+  "plaintext_policy": "No plaintext generation or language/semantic scoring."
+}
