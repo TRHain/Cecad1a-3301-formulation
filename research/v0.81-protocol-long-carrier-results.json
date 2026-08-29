@@ -1,0 +1,109 @@
+{
+  "protocol_version": "0.81",
+  "corpus_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+  "replicates": 5000,
+  "red_event_state": false,
+  "selector_phase_max_power_difference": 2.507217523872729e-18,
+  "discovery": {
+    "sections": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.9",
+      "0.10"
+    ],
+    "rune_count": 6057,
+    "signals": {
+      "rune_centered": {
+        "powers": {
+          "761": 0.000019953242564240256,
+          "1033": 0.0002788309266732761,
+          "3301": 0.000014208466377090047
+        },
+        "top_period": 1033,
+        "family_max": 0.0002788309266732761,
+        "permutation_exceedances": 1654,
+        "permutation_p": 0.33093381323735255,
+        "random_period_exceedances": 372,
+        "random_period_p": 0.07458508298340331
+      },
+      "adjacent_equality": {
+        "powers": {
+          "761": 0.00010973682794486307,
+          "1033": 0.00008573993317503323,
+          "3301": 0.0002515657530772694
+        },
+        "top_period": 3301,
+        "family_max": 0.0002515657530772694,
+        "permutation_exceedances": 4067,
+        "permutation_p": 0.8134373125374925,
+        "random_period_exceedances": 3133,
+        "random_period_p": 0.6266746650669867
+      },
+      "signed_modular_delta": {
+        "powers": {
+          "761": 0.000047333799778969474,
+          "1033": 0.0006461435708637827,
+          "3301": 0.00011135030231150051
+        },
+        "top_period": 1033,
+        "family_max": 0.0006461435708637827,
+        "permutation_exceedances": 178,
+        "permutation_p": 0.03579284143171366,
+        "random_period_exceedances": 1180,
+        "random_period_p": 0.23615276944611077
+      }
+    }
+  },
+  "heldout": {
+    "sections": [
+      "0.8",
+      "0.11",
+      "0.12"
+    ],
+    "rune_count": 6808,
+    "signals": {
+      "rune_centered": {
+        "powers": {
+          "761": 0.00025702264764537627,
+          "1033": 0.00006399435285158177,
+          "3301": 0.00003421180853324249
+        },
+        "top_period": 761,
+        "family_max": 0.00025702264764537627,
+        "permutation_exceedances": 1928,
+        "permutation_p": 0.3857228554289142,
+        "random_period_exceedances": 1161,
+        "random_period_p": 0.23235352929414116
+      },
+      "adjacent_equality": {
+        "powers": {
+          "761": 0.00007975155157567137,
+          "1033": 0.0001637595327087716,
+          "3301": 0.0006704104814889906
+        },
+        "top_period": 3301,
+        "family_max": 0.0006704104814889906,
+        "permutation_exceedances": 659,
+        "permutation_p": 0.13197360527894422,
+        "random_period_exceedances": 8,
+        "random_period_p": 0.001799640071985603
+      },
+      "signed_modular_delta": {
+        "powers": {
+          "761": 0.0001446741162762308,
+          "1033": 0.00004246724395235276,
+          "3301": 0.00021160922046632356
+        },
+        "top_period": 3301,
+        "family_max": 0.00021160922046632356,
+        "permutation_exceedances": 2910,
+        "permutation_p": 0.5820835832833433,
+        "random_period_exceedances": 1298,
+        "random_period_p": 0.259748050389922
+      }
+    }
+  },
+  "promotion": false,
+  "decision": "NO_PROTOCOL_SELECTOR_LONG_CARRIER_EVIDENCE"
+}

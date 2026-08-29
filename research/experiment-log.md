@@ -30,6 +30,7 @@ This log records both leads and rejected hypotheses so failed searches are not u
 - v0.61: no-hold differential prime-gap model found offset 368 with oracle rank 6 consecutive / 9 total prime clauses, but corrected p≈0.098; secondary only.
 - v0.62: recursive plaintext-F hold found offset 651, rank 4/6. Frozen-model p≈0.004 was a search artifact; full-family corrected p≈0.891. Rejected.
 - v0.63: first predeclared frequency screen. Rune signal family p≈0.070 (period 761 among top); equality signal's strongest predeclared candidate was 3301 but p≈0.214 and section length is shorter than one 3301 cycle. No frequency evidence yet. Coarse ΔK residue-class screen uninformative.
+- v0.81: canonical corpus ingested and frozen protocol-selector × long-carrier family run for 761, 1033 and 3301 with red OFF. Discovery signed delta passed the fixed-period permutation control (p≈0.0358) but failed the matched random-period control (p≈0.2362) and held-out validation (p≈0.5821; top changed 1033→3301). Held-out equality passed only the random-period comparison (p≈0.0018), not permutation control (p≈0.1320), and lacked discovery support. No model promoted. Constant selector phases are algebraically unidentifiable under squared complex power (audit difference ≤2.51e-18).
 
 ## Methodological debt
 
