@@ -1,0 +1,6796 @@
+{
+  "protocol_version": "0.82",
+  "protocol_sha256": "9121fa548fa5ba97c7c072cd0d09b8a0f6ed8a6855c1877c7d8ce08135d8c76a",
+  "corpus_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+  "phase": "discovery",
+  "resamples": 20000,
+  "red_event_state": false,
+  "split_sections": [
+    "0.5",
+    "0.6",
+    "0.7",
+    "0.9",
+    "0.10"
+  ],
+  "rune_count": 6057,
+  "hard_negative_guard": "No Fourier/projection power, periodic mask, lag scan, phase/reset variant, or repeating carrier test is permitted for 761, 1033, or 3301.",
+  "index_tables": {
+    "29": {
+      "identity": {
+        "transformed_value": 29,
+        "page32_slot": 13
+      },
+      "prime_rank": {
+        "transformed_value": 10,
+        "page32_slot": 13
+      },
+      "nth_prime": {
+        "transformed_value": 109,
+        "page32_slot": 13
+      },
+      "page32_ordinal": {
+        "transformed_value": 234,
+        "page32_slot": 13
+      },
+      "page32_prime": {
+        "transformed_value": 1481,
+        "page32_slot": 13
+      }
+    },
+    "58": {
+      "identity": {
+        "transformed_value": 58,
+        "page32_slot": 10
+      },
+      "prime_rank": {
+        "transformed_value": 16,
+        "page32_slot": 10
+      },
+      "nth_prime": {
+        "transformed_value": 271,
+        "page32_slot": 10
+      },
+      "page32_ordinal": {
+        "transformed_value": 56,
+        "page32_slot": 10
+      },
+      "page32_prime": {
+        "transformed_value": 263,
+        "page32_slot": 10
+      }
+    },
+    "133": {
+      "identity": {
+        "transformed_value": 133,
+        "page32_slot": 5
+      },
+      "prime_rank": {
+        "transformed_value": 32,
+        "page32_slot": 5
+      },
+      "nth_prime": {
+        "transformed_value": 751,
+        "page32_slot": 5
+      },
+      "page32_ordinal": {
+        "transformed_value": 6,
+        "page32_slot": 5
+      },
+      "page32_prime": {
+        "transformed_value": 13,
+        "page32_slot": 5
+      }
+    },
+    "167": {
+      "identity": {
+        "transformed_value": 167,
+        "page32_slot": 7
+      },
+      "prime_rank": {
+        "transformed_value": 39,
+        "page32_slot": 7
+      },
+      "nth_prime": {
+        "transformed_value": 991,
+        "page32_slot": 7
+      },
+      "page32_ordinal": {
+        "transformed_value": 14,
+        "page32_slot": 7
+      },
+      "page32_prime": {
+        "transformed_value": 43,
+        "page32_slot": 7
+      }
+    },
+    "331": {
+      "identity": {
+        "transformed_value": 331,
+        "page32_slot": 11
+      },
+      "prime_rank": {
+        "transformed_value": 67,
+        "page32_slot": 11
+      },
+      "nth_prime": {
+        "transformed_value": 2221,
+        "page32_slot": 11
+      },
+      "page32_ordinal": {
+        "transformed_value": 90,
+        "page32_slot": 11
+      },
+      "page32_prime": {
+        "transformed_value": 463,
+        "page32_slot": 11
+      }
+    },
+    "761": {
+      "identity": {
+        "transformed_value": 761,
+        "page32_slot": 9
+      },
+      "prime_rank": {
+        "transformed_value": 135,
+        "page32_slot": 9
+      },
+      "nth_prime": {
+        "transformed_value": 5801,
+        "page32_slot": 9
+      },
+      "page32_ordinal": {
+        "transformed_value": 35,
+        "page32_slot": 9
+      },
+      "page32_prime": {
+        "transformed_value": 149,
+        "page32_slot": 9
+      }
+    },
+    "1033": {
+      "identity": {
+        "transformed_value": 1033,
+        "page32_slot": 9
+      },
+      "prime_rank": {
+        "transformed_value": 174,
+        "page32_slot": 9
+      },
+      "nth_prime": {
+        "transformed_value": 8233,
+        "page32_slot": 9
+      },
+      "page32_ordinal": {
+        "transformed_value": 35,
+        "page32_slot": 9
+      },
+      "page32_prime": {
+        "transformed_value": 149,
+        "page32_slot": 9
+      }
+    },
+    "3301": {
+      "identity": {
+        "transformed_value": 3301,
+        "page32_slot": 5
+      },
+      "prime_rank": {
+        "transformed_value": 464,
+        "page32_slot": 5
+      },
+      "nth_prime": {
+        "transformed_value": 30577,
+        "page32_slot": 5
+      },
+      "page32_ordinal": {
+        "transformed_value": 6,
+        "page32_slot": 5
+      },
+      "page32_prime": {
+        "transformed_value": 13,
+        "page32_slot": 5
+      }
+    }
+  },
+  "absolute_global_landings_descriptive": [
+    {
+      "selector": 29,
+      "transform": "identity",
+      "position_1": 29,
+      "rune": "ᛋ",
+      "rune_index_0": 15,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 2,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 29,
+      "transform": "prime_rank",
+      "position_1": 10,
+      "rune": "ᚣ",
+      "rune_index_0": 26,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 29,
+      "transform": "nth_prime",
+      "position_1": 109,
+      "rune": "ᛡ",
+      "rune_index_0": 27,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 6,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 29,
+      "transform": "page32_ordinal",
+      "position_1": 234,
+      "rune": "ᚱ",
+      "rune_index_0": 4,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 11,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 29,
+      "transform": "page32_prime",
+      "position_1": 1481,
+      "rune": "ᚾ",
+      "rune_index_0": 9,
+      "page": 6,
+      "section": "0.6",
+      "source_line": 78,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 58,
+      "transform": "identity",
+      "position_1": 58,
+      "rune": "ᛡ",
+      "rune_index_0": 27,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 3,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 58,
+      "transform": "prime_rank",
+      "position_1": 16,
+      "rune": "ᚷ",
+      "rune_index_0": 6,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 58,
+      "transform": "nth_prime",
+      "position_1": 271,
+      "rune": "ᚢ",
+      "rune_index_0": 1,
+      "page": 1,
+      "section": "0.5",
+      "source_line": 14,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 58,
+      "transform": "page32_ordinal",
+      "position_1": 56,
+      "rune": "ᛈ",
+      "rune_index_0": 13,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 3,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 58,
+      "transform": "page32_prime",
+      "position_1": 263,
+      "rune": "ᚪ",
+      "rune_index_0": 24,
+      "page": 1,
+      "section": "0.5",
+      "source_line": 14,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 133,
+      "transform": "identity",
+      "position_1": 133,
+      "rune": "ᛉ",
+      "rune_index_0": 14,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 7,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 133,
+      "transform": "prime_rank",
+      "position_1": 32,
+      "rune": "ᛁ",
+      "rune_index_0": 10,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 2,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 133,
+      "transform": "nth_prime",
+      "position_1": 751,
+      "rune": "ᚾ",
+      "rune_index_0": 9,
+      "page": 3,
+      "section": "0.6",
+      "source_line": 40,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 133,
+      "transform": "page32_ordinal",
+      "position_1": 6,
+      "rune": "ᛗ",
+      "rune_index_0": 19,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 133,
+      "transform": "page32_prime",
+      "position_1": 13,
+      "rune": "ᚳ",
+      "rune_index_0": 5,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 167,
+      "transform": "identity",
+      "position_1": 167,
+      "rune": "ᚣ",
+      "rune_index_0": 26,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 8,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 167,
+      "transform": "prime_rank",
+      "position_1": 39,
+      "rune": "ᚦ",
+      "rune_index_0": 2,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 2,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 167,
+      "transform": "nth_prime",
+      "position_1": 991,
+      "rune": "ᚷ",
+      "rune_index_0": 6,
+      "page": 4,
+      "section": "0.6",
+      "source_line": 54,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 167,
+      "transform": "page32_ordinal",
+      "position_1": 14,
+      "rune": "ᚦ",
+      "rune_index_0": 2,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 167,
+      "transform": "page32_prime",
+      "position_1": 43,
+      "rune": "ᛡ",
+      "rune_index_0": 27,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 2,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 331,
+      "transform": "identity",
+      "position_1": 331,
+      "rune": "ᛄ",
+      "rune_index_0": 11,
+      "page": 1,
+      "section": "0.5",
+      "source_line": 16,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 331,
+      "transform": "prime_rank",
+      "position_1": 67,
+      "rune": "ᛈ",
+      "rune_index_0": 13,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 4,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 331,
+      "transform": "nth_prime",
+      "position_1": 2221,
+      "rune": "ᛇ",
+      "rune_index_0": 12,
+      "page": 9,
+      "section": "0.7",
+      "source_line": 121,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 331,
+      "transform": "page32_ordinal",
+      "position_1": 90,
+      "rune": "ᚷ",
+      "rune_index_0": 6,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 5,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 331,
+      "transform": "page32_prime",
+      "position_1": 463,
+      "rune": "ᚹ",
+      "rune_index_0": 7,
+      "page": 1,
+      "section": "0.5",
+      "source_line": 22,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 761,
+      "transform": "identity",
+      "position_1": 761,
+      "rune": "ᛒ",
+      "rune_index_0": 17,
+      "page": 3,
+      "section": "0.6",
+      "source_line": 40,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 761,
+      "transform": "prime_rank",
+      "position_1": 135,
+      "rune": "ᚹ",
+      "rune_index_0": 7,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 7,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 761,
+      "transform": "nth_prime",
+      "position_1": 5801,
+      "rune": "ᛟ",
+      "rune_index_0": 22,
+      "page": 24,
+      "section": "0.9",
+      "source_line": 303,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 761,
+      "transform": "page32_ordinal",
+      "position_1": 35,
+      "rune": "ᚾ",
+      "rune_index_0": 9,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 2,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 761,
+      "transform": "page32_prime",
+      "position_1": 149,
+      "rune": "ᛚ",
+      "rune_index_0": 20,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 7,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 1033,
+      "transform": "identity",
+      "position_1": 1033,
+      "rune": "ᚠ",
+      "rune_index_0": 0,
+      "page": 4,
+      "section": "0.6",
+      "source_line": 55,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 1033,
+      "transform": "prime_rank",
+      "position_1": 174,
+      "rune": "ᛟ",
+      "rune_index_0": 22,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 9,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 1033,
+      "transform": "nth_prime",
+      "position_1": 8233,
+      "rune": "ᛄ",
+      "rune_index_0": 11,
+      "page": 34,
+      "section": "0.11",
+      "source_line": 429,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 1033,
+      "transform": "page32_ordinal",
+      "position_1": 35,
+      "rune": "ᚾ",
+      "rune_index_0": 9,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 2,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 1033,
+      "transform": "page32_prime",
+      "position_1": 149,
+      "rune": "ᛚ",
+      "rune_index_0": 20,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 7,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 3301,
+      "transform": "identity",
+      "position_1": 3301,
+      "rune": "ᚪ",
+      "rune_index_0": 24,
+      "page": 13,
+      "section": "0.7",
+      "source_line": 173,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 3301,
+      "transform": "prime_rank",
+      "position_1": 464,
+      "rune": "ᛄ",
+      "rune_index_0": 11,
+      "page": 1,
+      "section": "0.5",
+      "source_line": 23,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 3301,
+      "transform": "page32_ordinal",
+      "position_1": 6,
+      "rune": "ᛗ",
+      "rune_index_0": 19,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    },
+    {
+      "selector": 3301,
+      "transform": "page32_prime",
+      "position_1": 13,
+      "rune": "ᚳ",
+      "rune_index_0": 5,
+      "page": 0,
+      "section": "0.5",
+      "source_line": 1,
+      "inside_excluded91": false
+    }
+  ],
+  "address_results": [
+    {
+      "id": "address|split_full|identity|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|identity|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.13535,
+        "sd": 0.35739386886179236,
+        "z": -0.3787138274952924,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2066,
+        "sd": 0.4402458858410831,
+        "z": -0.4692832043286307,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|identity|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.19355,
+        "sd": 0.4476476264876203,
+        "z": 1.8015285958905947,
+        "p_fwer": 0.9985500724963752
+      },
+      "within_unit_control": {
+        "mean": 0.2715,
+        "sd": 0.5177719092418978,
+        "z": 1.4069901958695332,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|identity|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.6481,
+        "sd": 0.7895355533476628,
+        "z": -0.8208623376769162,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.94315,
+        "sd": 0.954472669854931,
+        "z": -0.9881372508479978,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|identity|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.00995,
+        "sd": 0.09925219141157539,
+        "z": -0.10024967568463754,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0964,
+        "sd": 0.3067687076609999,
+        "z": -0.31424326403763614,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|identity|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1229,
+        "sd": 0.3718811503693082,
+        "z": -0.33048192918073505,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2045,
+        "sd": 0.43598136428063067,
+        "z": -0.46905674589423113,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|identity|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.41215,
+        "sd": 0.6318088140410831,
+        "z": -0.6523334129574205,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27125,
+        "sd": 0.5044536029210219,
+        "z": -0.5377105018763586,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|identity|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.76545,
+        "sd": 0.8682950520992274,
+        "z": 0.2701270719359069,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.96155,
+        "sd": 0.99074295228379,
+        "z": 0.03880925916391107,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|identity|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.04935,
+        "sd": 0.21912228891648608,
+        "z": -0.22521670544801917,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.09795,
+        "sd": 0.30603234714650673,
+        "z": -0.3200642053472486,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|identity|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.15325,
+        "sd": 0.37863496602928787,
+        "z": -0.40474339073097104,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2066,
+        "sd": 0.4402458858410831,
+        "z": -0.4692832043286307,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|identity|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.242,
+        "sd": 0.4893219798864547,
+        "z": 1.5490822631263998,
+        "p_fwer": 0.9998000099995
+      },
+      "within_unit_control": {
+        "mean": 0.2715,
+        "sd": 0.5177719092418978,
+        "z": 1.4069901958695332,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|identity|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.86865,
+        "sd": 0.9125224257518277,
+        "z": -0.9519218108906407,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.94315,
+        "sd": 0.954472669854931,
+        "z": -0.9881372508479978,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|identity|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.0486,
+        "sd": 0.21618982399733802,
+        "z": -0.22480244028783897,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0964,
+        "sd": 0.3067687076609999,
+        "z": -0.31424326403763614,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|identity|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1422,
+        "sd": 0.39544804968541697,
+        "z": -0.359592113586403,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2045,
+        "sd": 0.43598136428063067,
+        "z": -0.46905674589423113,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|identity|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.43305,
+        "sd": 0.6466202111749988,
+        "z": -0.669713059561018,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27125,
+        "sd": 0.5044536029210219,
+        "z": -0.5377105018763586,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|identity|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.94645,
+        "sd": 0.947619331535612,
+        "z": 0.05651003332026005,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.96155,
+        "sd": 0.99074295228379,
+        "z": 0.03880925916391107,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|identity|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|identity|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.04935,
+        "sd": 0.21912228891648608,
+        "z": -0.22521670544801917,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.09795,
+        "sd": 0.30603234714650673,
+        "z": -0.3200642053472486,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.40935,
+        "sd": 0.5692825111489023,
+        "z": -0.7190630170139372,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2114,
+        "sd": 0.4539934360758975,
+        "z": -0.4656454988143456,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.30105,
+        "sd": 0.5200181703556136,
+        "z": 1.3440876489412363,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27495,
+        "sd": 0.511910634290791,
+        "z": 1.4163604962114054,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.07425,
+        "sd": 1.017711618043147,
+        "z": -1.0555544232319611,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.9514,
+        "sd": 0.9479124643130293,
+        "z": -1.0036791748376241,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.0828,
+        "sd": 0.28150339251952183,
+        "z": -0.29413499872566523,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0897,
+        "sd": 0.29538772824882215,
+        "z": -0.30366867483553855,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.2811,
+        "sd": 0.49414855053920775,
+        "z": -0.5688572792397504,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2033,
+        "sd": 0.4439246670325946,
+        "z": -0.45796058452654753,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1688,
+        "sd": 0.3939626378224209,
+        "z": -0.4284670265510985,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27295,
+        "sd": 0.5122970793397128,
+        "z": -0.532796322695805,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.1455,
+        "sd": 1.0551918072085285,
+        "z": 0.809805377716634,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.95795,
+        "sd": 0.9511476212975565,
+        "z": 1.0955712621963292,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.12725,
+        "sd": 0.3431580357502939,
+        "z": 2.5432888321900604,
+        "p_fwer": 0.9178541072946352
+      },
+      "within_unit_control": {
+        "mean": 0.095,
+        "sd": 0.3042614007724279,
+        "z": 2.9744160702030493,
+        "p_fwer": 0.8936553172341383
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.40935,
+        "sd": 0.5692825111489023,
+        "z": -0.7190630170139372,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2114,
+        "sd": 0.4539934360758975,
+        "z": -0.4656454988143456,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.30105,
+        "sd": 0.5200181703556136,
+        "z": 1.3440876489412363,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27495,
+        "sd": 0.511910634290791,
+        "z": 1.4163604962114054,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.07425,
+        "sd": 1.017711618043147,
+        "z": -1.0555544232319611,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.9514,
+        "sd": 0.9479124643130293,
+        "z": -1.0036791748376241,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|prime_rank|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.0828,
+        "sd": 0.28150339251952183,
+        "z": -0.29413499872566523,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0897,
+        "sd": 0.29538772824882215,
+        "z": -0.30366867483553855,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.2811,
+        "sd": 0.49414855053920775,
+        "z": -0.5688572792397504,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2033,
+        "sd": 0.4439246670325946,
+        "z": -0.45796058452654753,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1688,
+        "sd": 0.3939626378224209,
+        "z": -0.4284670265510985,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27295,
+        "sd": 0.5122970793397128,
+        "z": -0.532796322695805,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.1455,
+        "sd": 1.0551918072085285,
+        "z": 0.809805377716634,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.95795,
+        "sd": 0.9511476212975565,
+        "z": 1.0955712621963292,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|prime_rank|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|prime_rank|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.12725,
+        "sd": 0.3431580357502939,
+        "z": 2.5432888321900604,
+        "p_fwer": 0.9178541072946352
+      },
+      "within_unit_control": {
+        "mean": 0.095,
+        "sd": 0.3042614007724279,
+        "z": 2.9744160702030493,
+        "p_fwer": 0.8936553172341383
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.03995,
+        "sd": 0.19584176648508866,
+        "z": -0.20399121554615768,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.1569,
+        "sd": 0.388821797228499,
+        "z": -0.40352675986370834,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.02955,
+        "sd": 0.1693422496012144,
+        "z": 5.730702186166308,
+        "p_fwer": 0.10914454277286136
+      },
+      "within_unit_control": {
+        "mean": 0.20215,
+        "sd": 0.44697357584089914,
+        "z": 1.7850048484387269,
+        "p_fwer": 0.99990000499975
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 0,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.3593,
+        "sd": 0.6090184808361729,
+        "z": -0.589965676421981,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.5104,
+        "sd": 0.6857053594657111,
+        "z": -0.7443430227783172,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.02925,
+        "sd": 0.1685064909728999,
+        "z": -0.17358381763883587,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.06105,
+        "sd": 0.24150134057598935,
+        "z": -0.25279362778853964,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.2048,
+        "sd": 0.4329630007286997,
+        "z": -0.4730196336761126,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.15395,
+        "sd": 0.38229490906890196,
+        "z": -0.40269958178347914,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.19085,
+        "sd": 0.41728440840750325,
+        "z": -0.45736192427689154,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.1964,
+        "sd": 0.43246622989546823,
+        "z": -0.45413950598517716,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.3583,
+        "sd": 0.5783779992357938,
+        "z": 1.1094820357065327,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.51315,
+        "sd": 0.7161892749127147,
+        "z": 0.679778400841502,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 6,
+      "structured_number_control": {
+        "mean": 0.0401,
+        "sd": 0.19619375627170196,
+        "z": -0.20438978671913946,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.06215,
+        "sd": 0.25057409582796064,
+        "z": -0.2480304270664554,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1313,
+        "sd": 0.3519379348692039,
+        "z": -0.3730771451187751,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2043,
+        "sd": 0.44694687603785754,
+        "z": -0.4571013043230115,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.0966,
+        "sd": 0.3016097478530825,
+        "z": 2.9952612819399205,
+        "p_fwer": 0.7722113894305285
+      },
+      "within_unit_control": {
+        "mean": 0.27145,
+        "sd": 0.5156208854381288,
+        "z": 1.4129567295958987,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.95965,
+        "sd": 0.9538458352899593,
+        "z": 0.042302433482591044,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.96185,
+        "sd": 0.9544603593130518,
+        "z": 0.03997022990819388,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|nth_prime|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.0853,
+        "sd": 0.28744375101922115,
+        "z": 3.1821878080725248,
+        "p_fwer": 0.7093145342732864
+      },
+      "within_unit_control": {
+        "mean": 0.0949,
+        "sd": 0.2979832042246677,
+        "z": 3.037419516160347,
+        "p_fwer": 0.8427078646067696
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.26365,
+        "sd": 0.4915675716521585,
+        "z": -0.5363453881098633,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.20445,
+        "sd": 0.4462624760160773,
+        "z": -0.4581384521172117,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.2755,
+        "sd": 0.49919910857292205,
+        "z": -0.5518839983260017,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.26865,
+        "sd": 0.5110549652434657,
+        "z": -0.5256773111910098,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.9576,
+        "sd": 0.9390965019634563,
+        "z": 0.04514977950759094,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.9722,
+        "sd": 1.0126337738787898,
+        "z": 0.027453162947069204,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|nth_prime|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|nth_prime|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.0995,
+        "sd": 0.30675682551493455,
+        "z": -0.3243611607760487,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.09575,
+        "sd": 0.30640159513292353,
+        "z": -0.31249837311865697,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.6608,
+        "sd": 1.108757574945939,
+        "z": -0.5959823995179644,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.20285,
+        "sd": 0.5450705252533841,
+        "z": 1.4624713006256083,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.3117,
+        "sd": 0.5253980491018214,
+        "z": -0.5932644792512218,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27465,
+        "sd": 0.5184760143921799,
+        "z": -0.5297255656502795,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.8393,
+        "sd": 1.5380752614875512,
+        "z": -0.5456820098570926,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.88635,
+        "sd": 1.3585410106065987,
+        "z": -0.6524278568552291,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.15455,
+        "sd": 0.37116613194094095,
+        "z": -0.41639036188946144,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.09855,
+        "sd": 0.31102716521230106,
+        "z": -0.3168533524482715,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.0183,
+        "sd": 0.9111339692932099,
+        "z": -1.1176183023775543,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2034,
+        "sd": 0.551206349745719,
+        "z": -0.3690088114801869,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.14975,
+        "sd": 0.3696281070210976,
+        "z": -0.405136939414222,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2735,
+        "sd": 0.5148764414886352,
+        "z": -0.5311954052689687,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.65865,
+        "sd": 1.4519401425334308,
+        "z": -0.4536344031722608,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.89395,
+        "sd": 1.372735734764707,
+        "z": -0.6512178399386003,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.09875,
+        "sd": 0.30049698417787823,
+        "z": -0.3286222664435968,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.1006,
+        "sd": 0.31365528849359453,
+        "z": -0.3207342700426186,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 1,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.6608,
+        "sd": 1.108757574945939,
+        "z": -0.5959823995179644,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.20285,
+        "sd": 0.5450705252533841,
+        "z": 1.4624713006256083,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.3117,
+        "sd": 0.5253980491018214,
+        "z": -0.5932644792512218,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.27465,
+        "sd": 0.5184760143921799,
+        "z": -0.5297255656502795,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.8393,
+        "sd": 1.5380752614875512,
+        "z": -0.5456820098570926,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.88635,
+        "sd": 1.3585410106065987,
+        "z": -0.6524278568552291,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_ordinal|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.15455,
+        "sd": 0.37116613194094095,
+        "z": -0.41639036188946144,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.09855,
+        "sd": 0.31102716521230106,
+        "z": -0.3168533524482715,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 1.0183,
+        "sd": 0.9111339692932099,
+        "z": -1.1176183023775543,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2034,
+        "sd": 0.551206349745719,
+        "z": -0.3690088114801869,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.14975,
+        "sd": 0.3696281070210976,
+        "z": -0.405136939414222,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2735,
+        "sd": 0.5148764414886352,
+        "z": -0.5311954052689687,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.65865,
+        "sd": 1.4519401425334308,
+        "z": -0.4536344031722608,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.89395,
+        "sd": 1.372735734764707,
+        "z": -0.6512178399386003,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_ordinal|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.09875,
+        "sd": 0.30049698417787823,
+        "z": -0.3286222664435968,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.1006,
+        "sd": 0.31365528849359453,
+        "z": -0.3207342700426186,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.72375,
+        "sd": 0.7771331530053264,
+        "z": 1.6422539626118007,
+        "p_fwer": 0.999550022498875
+      },
+      "within_unit_control": {
+        "mean": 0.2138,
+        "sd": 0.5524396437621036,
+        "z": 3.2332943882086584,
+        "p_fwer": 0.7419129043547823
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1802,
+        "sd": 0.404262241620461,
+        "z": -0.44575026170556786,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2807,
+        "sd": 0.5211597739657197,
+        "z": -0.5386064198010486,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.3815,
+        "sd": 1.4227641231068489,
+        "z": -0.2681400197011782,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.889,
+        "sd": 1.327508568710575,
+        "z": -0.6696755267376513,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1193,
+        "sd": 0.3316134949003131,
+        "z": -0.35975616744988914,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0951,
+        "sd": 0.3029125121218996,
+        "z": -0.3139520362953161,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2086,
+        "sd": 0.5447807265313265,
+        "z": -0.38290635083252145,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.284,
+        "sd": 0.4928934976239796,
+        "z": -0.576189382430561,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2745,
+        "sd": 0.5117125658023262,
+        "z": -0.5364339638007619,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.2311,
+        "sd": 1.3864677385355921,
+        "z": -0.16668256575814114,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.88775,
+        "sd": 1.3134115644001312,
+        "z": -0.6759115147622887,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.10985,
+        "sd": 0.3179354926710763,
+        "z": -0.34551033946262344,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0949,
+        "sd": 0.3006559329200074,
+        "z": -0.3156431974527145,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.72375,
+        "sd": 0.7771331530053264,
+        "z": 1.6422539626118007,
+        "p_fwer": 0.999550022498875
+      },
+      "within_unit_control": {
+        "mean": 0.2138,
+        "sd": 0.5524396437621036,
+        "z": 3.2332943882086584,
+        "p_fwer": 0.7419129043547823
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1802,
+        "sd": 0.404262241620461,
+        "z": -0.44575026170556786,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2807,
+        "sd": 0.5211597739657197,
+        "z": -0.5386064198010486,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.4528,
+        "sd": 1.4601274464922573,
+        "z": -0.31010991614998107,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.889,
+        "sd": 1.327508568710575,
+        "z": -0.6696755267376513,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "split_full|page32_prime|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.1384,
+        "sd": 0.3565745924768057,
+        "z": -0.38813758164500345,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0951,
+        "sd": 0.3029125121218996,
+        "z": -0.3139520362953161,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2086,
+        "sd": 0.5447807265313265,
+        "z": -0.38290635083252145,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.284,
+        "sd": 0.4928934976239796,
+        "z": -0.576189382430561,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.2745,
+        "sd": 0.5117125658023262,
+        "z": -0.5364339638007619,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 2,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 2.2311,
+        "sd": 1.3864677385355921,
+        "z": -0.16668256575814114,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.88775,
+        "sd": 1.3134115644001312,
+        "z": -0.6759115147622887,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|split_full|page32_prime|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "split_full",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "split_full|page32_prime|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 8,
+      "structured_number_control": {
+        "mean": 0.10985,
+        "sd": 0.3179354926710763,
+        "z": -0.34551033946262344,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.0949,
+        "sd": 0.3006559329200074,
+        "z": -0.3156431974527145,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|identity|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 0.95685,
+        "sd": 0.9870603211050478,
+        "z": -0.9693936424561912,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.8445,
+        "sd": 0.8869722374460206,
+        "z": -0.9521154827029122,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|identity|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 0.64785,
+        "sd": 0.7559367549603604,
+        "z": 0.46584584978734883,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.0842,
+        "sd": 1.0194657228175943,
+        "z": -0.08259228154065691,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|identity|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 2.36475,
+        "sd": 1.4691519450009247,
+        "z": -0.928937272039034,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 3.0386,
+        "sd": 1.7078378260244735,
+        "z": -1.1936730577899652,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|identity|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 0.42045,
+        "sd": 0.5913305315134675,
+        "z": -0.7110236620522347,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.29405,
+        "sd": 0.5387806580604022,
+        "z": -0.5457694065309863,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|identity|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 0.74045,
+        "sd": 0.8829970540720959,
+        "z": -0.8385645190833705,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.8328,
+        "sd": 0.8849543265050462,
+        "z": -0.9410655161029389,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|identity|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 0.99325,
+        "sd": 0.8630205313316712,
+        "z": -1.1508996181902882,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.0885,
+        "sd": 1.0230189392186244,
+        "z": -1.064007672068505,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|identity|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 5,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 2.5262,
+        "sd": 1.6163890497030724,
+        "z": 1.5304483784113934,
+        "p_fwer": 0.99990000499975
+      },
+      "within_unit_control": {
+        "mean": 3.02725,
+        "sd": 1.726501502316172,
+        "z": 1.1426286031917583,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|identity|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 32,
+      "structured_number_control": {
+        "mean": 0.2507,
+        "sd": 0.497342447414254,
+        "z": 3.517294791737225,
+        "p_fwer": 0.5221738913054347
+      },
+      "within_unit_control": {
+        "mean": 0.28745,
+        "sd": 0.5318105842308894,
+        "z": 3.2202254915191455,
+        "p_fwer": 0.7529123543822809
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|identity|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.2674,
+        "sd": 1.1769015421860913,
+        "z": -1.0768955214773601,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.03345,
+        "sd": 0.9955556727275476,
+        "z": -1.0380634938964612,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|identity|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.9158,
+        "sd": 0.9152105550090646,
+        "z": 0.09200068720707237,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.35915,
+        "sd": 1.1325463688079176,
+        "z": -0.3171172588527479,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|identity|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 3,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.61465,
+        "sd": 2.0468647677606833,
+        "z": -0.788840584601231,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.7851,
+        "sd": 2.1684137036091617,
+        "z": -0.8232285181692197,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|identity|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.58615,
+        "sd": 0.7143375795098561,
+        "z": -0.820550418756056,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.4917,
+        "sd": 0.6940685196722295,
+        "z": -0.7084314964064398,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|identity|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.04805,
+        "sd": 1.0609623921233025,
+        "z": -0.9878295477585581,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.0223,
+        "sd": 0.9902033680007354,
+        "z": -1.0324141818100145,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|identity|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.3403,
+        "sd": 0.9953873165758139,
+        "z": -0.34187697023370806,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.3627,
+        "sd": 1.1469301242883108,
+        "z": -0.3162354814117917,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|identity|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 7,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.87375,
+        "sd": 2.1799107636552457,
+        "z": 0.9753839631649562,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.7876,
+        "sd": 2.159001213524438,
+        "z": 1.0247330970177602,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|identity|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|identity|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.48275,
+        "sd": 0.6895668477384915,
+        "z": 2.2002942934045975,
+        "p_fwer": 0.9814009299535024
+      },
+      "within_unit_control": {
+        "mean": 0.48675,
+        "sd": 0.6987305900703074,
+        "z": 2.165713111040028,
+        "p_fwer": 0.9966001699915005
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 3,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.38785,
+        "sd": 1.0599162124904025,
+        "z": 1.5210164548875584,
+        "p_fwer": 0.99990000499975
+      },
+      "within_unit_control": {
+        "mean": 1.03475,
+        "sd": 1.0037143206610135,
+        "z": 1.9579774439262263,
+        "p_fwer": 0.9994500274986251
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 4,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.43925,
+        "sd": 1.2261359783890204,
+        "z": 2.0884714624918557,
+        "p_fwer": 0.9910004499775011
+      },
+      "within_unit_control": {
+        "mean": 1.3607,
+        "sd": 1.1431515691280838,
+        "z": 2.3087927019275964,
+        "p_fwer": 0.9866006699665016
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 4,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.44275,
+        "sd": 2.1619950132921213,
+        "z": -0.20478770639059626,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.79065,
+        "sd": 2.1331250731028404,
+        "z": -0.37065337141713967,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.34545,
+        "sd": 0.5664929809803472,
+        "z": -0.6098045546869438,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.46875,
+        "sd": 0.6744801238731947,
+        "z": -0.6949797086802325,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.2008,
+        "sd": 0.97707694681637,
+        "z": -1.228971785602548,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.03005,
+        "sd": 1.0050606934409483,
+        "z": -1.0248634801083483,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.3314,
+        "sd": 1.0787835927562117,
+        "z": -1.234167824705576,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.35775,
+        "sd": 1.149636872016551,
+        "z": -1.1810250984890582,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 8,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.7298,
+        "sd": 2.2798666539953603,
+        "z": 1.4343821355819766,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.81525,
+        "sd": 2.1705799772180714,
+        "z": 1.4672345794333468,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.6332,
+        "sd": 0.7227432185776633,
+        "z": 0.5075108151437951,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.47655,
+        "sd": 0.6816524756061552,
+        "z": 0.7679132970719799,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 3,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.4403,
+        "sd": 1.0714177103259028,
+        "z": 1.4557347568256753,
+        "p_fwer": 0.999950002499875
+      },
+      "within_unit_control": {
+        "mean": 1.03475,
+        "sd": 1.0037143206610135,
+        "z": 1.9579774439262263,
+        "p_fwer": 0.9994500274986251
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 4,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.4974,
+        "sd": 1.2590842862969898,
+        "z": 1.98763500365828,
+        "p_fwer": 0.9937503124843757
+      },
+      "within_unit_control": {
+        "mean": 1.3607,
+        "sd": 1.1431515691280838,
+        "z": 2.3087927019275964,
+        "p_fwer": 0.9866006699665016
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 4,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.8498,
+        "sd": 2.232070778447673,
+        "z": -0.3807226940137652,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.79065,
+        "sd": 2.1331250731028404,
+        "z": -0.37065337141713967,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|prime_rank|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.37395,
+        "sd": 0.5861837574515351,
+        "z": -0.6379398870172852,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.46875,
+        "sd": 0.6744801238731947,
+        "z": -0.6949797086802325,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.2498,
+        "sd": 0.9907067982001536,
+        "z": -1.261523593328065,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.03005,
+        "sd": 1.0050606934409483,
+        "z": -1.0248634801083483,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.3886,
+        "sd": 1.106024430109932,
+        "z": -1.2554876386066642,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.35775,
+        "sd": 1.149636872016551,
+        "z": -1.1810250984890582,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 8,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 5.1694,
+        "sd": 2.370907767079941,
+        "z": 1.1938887034337167,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.81525,
+        "sd": 2.1705799772180714,
+        "z": 1.4672345794333468,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|prime_rank|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|prime_rank|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.69545,
+        "sd": 0.7905689707419586,
+        "z": 0.385228881060404,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.47655,
+        "sd": 0.6816524756061552,
+        "z": 0.7679132970719799,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.21215,
+        "sd": 0.4441197783256224,
+        "z": -0.4776864493624389,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.4745,
+        "sd": 0.6617777194798871,
+        "z": -0.7170081222633563,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.58,
+        "sd": 0.6476881965884511,
+        "z": -0.8954926198362373,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.6413,
+        "sd": 0.7845599467217275,
+        "z": -0.8174008916459002,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.434,
+        "sd": 0.6442390860542382,
+        "z": 0.8785558222904047,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.8686,
+        "sd": 0.9313613906534883,
+        "z": 0.1410837955262493,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.0103,
+        "sd": 0.10096489488926337,
+        "z": -0.10201565614758347,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.11625,
+        "sd": 0.33695094227498457,
+        "z": -0.34500571274594855,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 1,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.38455,
+        "sd": 0.5501557029605346,
+        "z": 1.1186833049045923,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.4751,
+        "sd": 0.667218097776132,
+        "z": 0.7866992843112549,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.3582,
+        "sd": 0.5467108559375787,
+        "z": 1.1739294967892098,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.6443,
+        "sd": 0.7899224708792629,
+        "z": 0.45029735589629477,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0.2384,
+        "sd": 0.5045447849299406,
+        "z": 1.5094794808071463,
+        "p_fwer": 0.999950002499875
+      },
+      "within_unit_control": {
+        "mean": 0.8777,
+        "sd": 0.9436327198650967,
+        "z": 0.1296055100945251,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 18,
+      "structured_number_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.1219,
+        "sd": 0.34531201832545594,
+        "z": -0.35301406707805194,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.96845,
+        "sd": 0.9433740496218878,
+        "z": -1.0265811322541285,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.02675,
+        "sd": 1.0027135371081812,
+        "z": -1.0239714155661443,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.83655,
+        "sd": 1.1088435856783412,
+        "z": -0.7544346297392664,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.36855,
+        "sd": 1.1747003437047254,
+        "z": -0.3137395864188487,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 7,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.80425,
+        "sd": 2.1306412033704794,
+        "z": 1.0305583110504597,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.9553,
+        "sd": 2.203837995407103,
+        "z": 0.9277905201113902,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|nth_prime|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.4721,
+        "sd": 0.6822914260050466,
+        "z": -0.6919330684898687,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.50345,
+        "sd": 0.6893388843667533,
+        "z": -0.7303374456563316,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 2,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.86655,
+        "sd": 0.9195874604951939,
+        "z": 1.2325635664819112,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.03565,
+        "sd": 1.0138930306003686,
+        "z": 0.9511358406605951,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 2,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.29185,
+        "sd": 1.0142847615438182,
+        "z": 0.6981767121514694,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.35385,
+        "sd": 1.1458360168453423,
+        "z": 0.5639114066068087,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 7,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.62165,
+        "sd": 2.090741800773114,
+        "z": 1.1375627536219606,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.9898,
+        "sd": 2.2067840764333977,
+        "z": 0.9109183002846765,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|nth_prime|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|nth_prime|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.5082,
+        "sd": 0.6677819704065093,
+        "z": -0.7610268358857241,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.5051,
+        "sd": 0.6991237301079116,
+        "z": -0.7224758340301743,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.54985,
+        "sd": 3.9742439504262945,
+        "z": -0.8932139154717033,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.02745,
+        "sd": 1.2341784706840417,
+        "z": -0.02224151583586274,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.30765,
+        "sd": 1.0553205567504123,
+        "z": -0.2915227965873506,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.3681,
+        "sd": 1.145775889954052,
+        "z": -0.32126701497861126,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 11,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 14.3683,
+        "sd": 6.522112779613675,
+        "z": -0.5164430781584115,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 14.36095,
+        "sd": 3.0120035022390006,
+        "z": -1.1158519561818596,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.55115,
+        "sd": 1.438778536641411,
+        "z": -0.38306798854990426,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.49835,
+        "sd": 0.696561036449786,
+        "z": -0.7154434054192541,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.1489,
+        "sd": 3.881034499975489,
+        "z": -1.0690190978787235,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.0441,
+        "sd": 1.2464570550163372,
+        "z": -0.8376542102257306,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.3298,
+        "sd": 1.101195695596382,
+        "z": -1.2075964384148916,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.3635,
+        "sd": 1.1594687361028757,
+        "z": -1.1759696122406023,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 13,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 15.41705,
+        "sd": 6.7702968396887915,
+        "z": -0.3570079801864498,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 14.36625,
+        "sd": 3.0126252567320697,
+        "z": -0.4535081145412801,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.7786,
+        "sd": 1.4918719918277172,
+        "z": -0.5218946426134886,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.4976,
+        "sd": 0.695840671418393,
+        "z": -0.7151062311228493,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.54985,
+        "sd": 3.9742439504262945,
+        "z": -0.8932139154717033,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.02745,
+        "sd": 1.2341784706840417,
+        "z": -0.02224151583586274,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.30765,
+        "sd": 1.0553205567504123,
+        "z": -0.2915227965873506,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.3681,
+        "sd": 1.145775889954052,
+        "z": -0.32126701497861126,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 11,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 14.38605,
+        "sd": 6.522017739741285,
+        "z": -0.5191721542502761,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 14.36095,
+        "sd": 3.0120035022390006,
+        "z": -1.1158519561818596,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_ordinal|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.55115,
+        "sd": 1.438778536641411,
+        "z": -0.38306798854990426,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.49835,
+        "sd": 0.696561036449786,
+        "z": -0.7154434054192541,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 4.1489,
+        "sd": 3.881034499975489,
+        "z": -1.0690190978787235,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.0441,
+        "sd": 1.2464570550163372,
+        "z": -0.8376542102257306,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.3298,
+        "sd": 1.101195695596382,
+        "z": -1.2075964384148916,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.3635,
+        "sd": 1.1594687361028757,
+        "z": -1.1759696122406023,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 13,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 15.41705,
+        "sd": 6.7702968396887915,
+        "z": -0.3570079801864498,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 14.36625,
+        "sd": 3.0126252567320697,
+        "z": -0.4535081145412801,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_ordinal|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.7786,
+        "sd": 1.4918719918277172,
+        "z": -0.5218946426134886,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.4976,
+        "sd": 0.695840671418393,
+        "z": -0.7151062311228493,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 5,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 2.3702,
+        "sd": 1.7105998830819555,
+        "z": 1.5373554190018643,
+        "p_fwer": 0.99990000499975
+      },
+      "within_unit_control": {
+        "mean": 0.92155,
+        "sd": 1.180125246531062,
+        "z": 3.4559467412365463,
+        "p_fwer": 0.5620718964051797
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 0.8949,
+        "sd": 0.9246372207520093,
+        "z": -0.9678390399125141,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.2193,
+        "sd": 1.0736421703714885,
+        "z": -1.1356670161140494,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 15,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 9.8236,
+        "sd": 6.825297285833048,
+        "z": 0.7584138511804331,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 13.38755,
+        "sd": 2.6734537582498095,
+        "z": 0.603133678682215,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 0.785,
+        "sd": 1.5327018627247766,
+        "z": -0.5121674469713622,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.46035,
+        "sd": 0.6651525219827404,
+        "z": -0.6920969022679964,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 0.10125,
+        "sd": 0.30165947275031824,
+        "z": -0.33564336328269073,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.9276,
+        "sd": 1.1842120756013257,
+        "z": -0.7833056418792033,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 1.12285,
+        "sd": 0.9302461381268939,
+        "z": -0.1320618220972846,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.20135,
+        "sd": 1.0800500810147649,
+        "z": -0.18642654034229675,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 12,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 12.3226,
+        "sd": 8.180869711711587,
+        "z": -0.03943346017822178,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 13.4075,
+        "sd": 2.6795976843548712,
+        "z": -0.5252654188417335,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 36,
+      "structured_number_control": {
+        "mean": 1.2746,
+        "sd": 1.7289866511919634,
+        "z": -0.7371948182024949,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.46455,
+        "sd": 0.6685381795380125,
+        "z": -0.6948743007033992,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 5,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 2.3702,
+        "sd": 1.7105998830819555,
+        "z": 1.5373554190018643,
+        "p_fwer": 0.99990000499975
+      },
+      "within_unit_control": {
+        "mean": 1.018,
+        "sd": 1.2141153157752356,
+        "z": 3.279754359623919,
+        "p_fwer": 0.7094145292735363
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.10645,
+        "sd": 0.9915736974627757,
+        "z": -1.1158525108432868,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.35595,
+        "sd": 1.1303316316462173,
+        "z": -1.1996036933206864,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 16,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 14.46615,
+        "sd": 6.526350755016158,
+        "z": 0.23502414405494235,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 14.3731,
+        "sd": 2.9077992348165944,
+        "z": 0.5594952982036305,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_section|page32_prime|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.94635,
+        "sd": 1.5472464824648982,
+        "z": -0.611634933880982,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.46035,
+        "sd": 0.6651525219827404,
+        "z": -0.6920969022679964,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 0.10125,
+        "sd": 0.30165947275031824,
+        "z": -0.33564336328269073,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.03145,
+        "sd": 1.2245247639390555,
+        "z": -0.8423267788248137,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.42205,
+        "sd": 0.998009918537887,
+        "z": -0.42289158871117766,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.3445,
+        "sd": 1.138955552249516,
+        "z": -0.30247010018923803,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 14,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 17.0122,
+        "sd": 7.4617927577761085,
+        "z": -0.403683149315681,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 14.3936,
+        "sd": 2.933628988130576,
+        "z": -0.1341682951704185,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_section|page32_prime|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_section",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_section|page32_prime|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 40,
+      "structured_number_control": {
+        "mean": 1.6874,
+        "sd": 1.741373377538545,
+        "z": -0.9690052815583772,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.46455,
+        "sd": 0.6685381795380125,
+        "z": -0.6948743007033992,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|identity|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 4,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 2.31035,
+        "sd": 2.171251454230946,
+        "z": 0.778191764342869,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 3.2326,
+        "sd": 1.71545831776817,
+        "z": 0.447344008333817,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|identity|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 1.40375,
+        "sd": 1.1116815809844112,
+        "z": -0.36318853069641865,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 3.3631,
+        "sd": 1.7769238559938347,
+        "z": -1.3298825338119604,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|identity|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 5,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 2.10845,
+        "sd": 1.9922822584915019,
+        "z": 1.451375671130755,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.9785,
+        "sd": 2.210234772597698,
+        "z": 0.009727473418912232,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|identity|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 0.0315,
+        "sd": 0.22607023245000657,
+        "z": 4.284066900378736,
+        "p_fwer": 0.3578321083945803
+      },
+      "within_unit_control": {
+        "mean": 0.74245,
+        "sd": 0.8462966368242284,
+        "z": 0.3043259169343619,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|identity|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 1.74425,
+        "sd": 1.3192960007140169,
+        "z": -1.322106637976613,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 3.22545,
+        "sd": 1.7441107469137387,
+        "z": -1.8493378391868405,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|identity|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 2.7173,
+        "sd": 1.6561040758358156,
+        "z": -1.036951738152869,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 3.3655,
+        "sd": 1.7772478020805096,
+        "z": -1.3309905333577352,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|identity|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 5,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 2.368,
+        "sd": 2.204444601254475,
+        "z": 1.1939515279731763,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.97785,
+        "sd": 2.2087687469493043,
+        "z": 0.01002821143254264,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|identity|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 97,
+      "structured_number_control": {
+        "mean": 0.0321,
+        "sd": 0.2299338818008342,
+        "z": 8.558547285800053,
+        "p_fwer": 0.03289835508224589
+      },
+      "within_unit_control": {
+        "mean": 0.73505,
+        "sd": 0.8444829764417989,
+        "z": 1.4978987561476076,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|identity|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 8,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.2433,
+        "sd": 2.691617563845206,
+        "z": 0.6526558689453653,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.68045,
+        "sd": 2.573681759173031,
+        "z": 0.5127090772963298,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|identity|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 3,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.96095,
+        "sd": 2.25734913061759,
+        "z": -1.311693419435704,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.79525,
+        "sd": 2.539001267723196,
+        "z": -1.4947806636596614,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|identity|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 31,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 26.1769,
+        "sd": 5.223151002029325,
+        "z": 0.9234081109518192,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 28.6616,
+        "sd": 4.978381809383454,
+        "z": 0.4697108597802783,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|identity|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 2.27045,
+        "sd": 1.399073549710665,
+        "z": -0.1933064920396288,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.28325,
+        "sd": 1.4969032826138104,
+        "z": -0.18922398213023098,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|identity|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 3,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.04565,
+        "sd": 2.1461980517883243,
+        "z": -0.9531506182737691,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.6774,
+        "sd": 2.6137959445985848,
+        "z": -1.406919315028916,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|identity|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 5,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.76165,
+        "sd": 2.5026464547554452,
+        "z": -0.703914848480724,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.80465,
+        "sd": 2.554679701547731,
+        "z": -0.7064094958388198,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|identity|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 29,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 26.6141,
+        "sd": 5.2124352456409415,
+        "z": 0.457732305067057,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 28.6977,
+        "sd": 5.0948321571961515,
+        "z": 0.059334633737250383,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|identity|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "identity",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|identity|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 3,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 2.45665,
+        "sd": 1.39575097259504,
+        "z": 0.38928864150442294,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.2867,
+        "sd": 1.4671752144853043,
+        "z": 0.48617233508148555,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 7,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 4.96935,
+        "sd": 2.377942509292433,
+        "z": 0.8539525207462766,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 5.69315,
+        "sd": 2.281489223621273,
+        "z": 0.5728056860710102,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 4,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 5.29575,
+        "sd": 2.3900589820127873,
+        "z": -0.5421414323879089,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 5.79025,
+        "sd": 2.3792341073337013,
+        "z": -0.7524480228665903,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 17,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 15.03445,
+        "sd": 5.966184978484995,
+        "z": 0.3294483840323563,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 17.64255,
+        "sd": 4.144970385599877,
+        "z": -0.15501920164069097,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 1.63995,
+        "sd": 1.101278346967741,
+        "z": -1.4891330647837009,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.59355,
+        "sd": 1.2386074428566947,
+        "z": -1.2865658196956045,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 3,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 3.5772,
+        "sd": 1.9354173090059936,
+        "z": -0.2982302562419692,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 5.75615,
+        "sd": 2.2960372770275317,
+        "z": -1.2003942738979108,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 3,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 5.76815,
+        "sd": 2.2010896341357826,
+        "z": -1.2576271120766345,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 5.81355,
+        "sd": 2.3631729512458466,
+        "z": -1.190581501246753,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 18,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 14.4485,
+        "sd": 5.868666607501233,
+        "z": 0.6051630187103374,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 17.6565,
+        "sd": 4.132155339529234,
+        "z": 0.08312853021617839,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 172,
+      "structured_number_control": {
+        "mean": 1.2886,
+        "sd": 1.0894999036255122,
+        "z": -0.2648921757951792,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.60145,
+        "sd": 1.2572620639707537,
+        "z": -0.4783807745701543,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 7,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.50555,
+        "sd": 2.6624179231480527,
+        "z": 0.18571464521068132,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.6291,
+        "sd": 2.4538201217693194,
+        "z": 0.15115207374392362,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 6,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.68565,
+        "sd": 2.6370123392771596,
+        "z": -0.26001015990237863,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.8106,
+        "sd": 2.5565264794247686,
+        "z": -0.3170708406597021,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 24,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 26.24285,
+        "sd": 6.561964178315809,
+        "z": -0.3417955263168854,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 24.08635,
+        "sd": 4.835265626364291,
+        "z": -0.01785837773403306,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|prime_rank|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 2.74505,
+        "sd": 1.4716828793935195,
+        "z": -1.8652455895465978,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.41395,
+        "sd": 1.5231859366144371,
+        "z": -1.5848032350964656,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 3,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 4.9013,
+        "sd": 2.1683538249095786,
+        "z": -0.8768402915420342,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.7137,
+        "sd": 2.4712410465189336,
+        "z": -1.5027672048549179,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 3,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 7.33075,
+        "sd": 2.5282314841604197,
+        "z": -1.7129562807569279,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.8152,
+        "sd": 2.5521851343505624,
+        "z": -1.4948758805347515,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 28,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 25.22285,
+        "sd": 6.33225772355327,
+        "z": 0.4385718524484873,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 24.0501,
+        "sd": 4.831489417353608,
+        "z": 0.8175325782175699,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|prime_rank|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "prime_rank",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|prime_rank|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 2.10935,
+        "sd": 1.4136097684651163,
+        "z": -0.07735515305523902,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.42095,
+        "sd": 1.5532067143493813,
+        "z": -0.27101994609669877,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 0,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 0.90485,
+        "sd": 0.8998869248411157,
+        "z": -1.0055152208815132,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.95975,
+        "sd": 0.963758236021877,
+        "z": -0.9958410357784107,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 1,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 1.35835,
+        "sd": 1.7159648240858552,
+        "z": -0.20883295215034697,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.01715,
+        "sd": 0.9834916763755553,
+        "z": -0.017437870001302494,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 0,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 0.4542,
+        "sd": 0.7822418807504492,
+        "z": -0.5806388166845018,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.15805,
+        "sd": 0.38996178979484647,
+        "z": -0.4052961190970734,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 3,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 1.3688,
+        "sd": 1.222001047462726,
+        "z": 1.3348597395942539,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.9559,
+        "sd": 0.954858727770763,
+        "z": 2.1407355251097795,
+        "p_fwer": 0.9986500674966252
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 3,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 0.99215,
+        "sd": 1.0405231268453383,
+        "z": 1.929654371150218,
+        "p_fwer": 0.9969001549922504
+      },
+      "within_unit_control": {
+        "mean": 1.0104,
+        "sd": 0.9822890816862417,
+        "z": 2.02547298661262,
+        "p_fwer": 0.9991000449977501
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 1,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 0.3596,
+        "sd": 0.4798831524444258,
+        "z": 1.334491525151351,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0.1589,
+        "sd": 0.39172795407016847,
+        "z": 2.1471533784115326,
+        "p_fwer": 0.9986000699965002
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 29,
+      "structured_number_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 0,
+        "sd": 0,
+        "z": 0,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 9,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.8916,
+        "sd": 2.013566348546775,
+        "z": 1.5437286197414775,
+        "p_fwer": 0.99990000499975
+      },
+      "within_unit_control": {
+        "mean": 6.666,
+        "sd": 2.478536665050568,
+        "z": 0.9416846774596254,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 5,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.90405,
+        "sd": 2.6916804411928257,
+        "z": -0.7073833768900942,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.8063,
+        "sd": 2.5086610592106693,
+        "z": -0.7200255265126723,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 27,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 27.46395,
+        "sd": 5.3939596214191265,
+        "z": -0.08601287969559131,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 26.6857,
+        "sd": 4.848960250404202,
+        "z": 0.0648180194865074,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|nth_prime|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 4,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 2.49715,
+        "sd": 1.657887775906439,
+        "z": 0.906484758401893,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.247,
+        "sd": 1.4686698063213532,
+        "z": -0.16817939535277332,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 11,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.8519,
+        "sd": 2.4879442095834876,
+        "z": 2.0692184254653587,
+        "p_fwer": 0.9914004299785011
+      },
+      "within_unit_control": {
+        "mean": 6.67395,
+        "sd": 2.469745209024609,
+        "z": 1.75161793378213,
+        "p_fwer": 0.99990000499975
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 9,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.7149,
+        "sd": 2.4904654163428956,
+        "z": 0.9175393422469351,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.74735,
+        "sd": 2.5316433353653904,
+        "z": 0.8897975352736157,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 31,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 28.69035,
+        "sd": 5.473332337570973,
+        "z": 0.4219824153826201,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 26.6708,
+        "sd": 4.774361460970457,
+        "z": 0.9067600003456857,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|nth_prime|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "nth_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|nth_prime|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 4,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 3.09925,
+        "sd": 1.7993886288125753,
+        "z": 0.5005866912665825,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.2452,
+        "sd": 1.4601975756725534,
+        "z": -0.167922481234817,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 7,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 22.60845,
+        "sd": 19.006791907039442,
+        "z": -0.8212038136861584,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.4296,
+        "sd": 3.036864145792498,
+        "z": 0.18782532659232573,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 6,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 5.78545,
+        "sd": 2.6554130182515863,
+        "z": 0.08079722383121665,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.6402,
+        "sd": 2.507338022684615,
+        "z": -0.25533055144855815,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 77,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 59.46695,
+        "sd": 33.06786669408083,
+        "z": 0.5302141248542783,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 70.39385,
+        "sd": 6.608141355744451,
+        "z": 0.9996986511581324,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 4.0555,
+        "sd": 7.064872238759877,
+        "z": -0.29094652111653896,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.47375,
+        "sd": 1.545027811238361,
+        "z": -0.30662878464322446,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 6,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 22.29965,
+        "sd": 19.16810266764815,
+        "z": -0.8503528117840524,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.45615,
+        "sd": 3.0196981931146696,
+        "z": -0.15105814251241573,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 6,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 5.61055,
+        "sd": 2.5594489050379576,
+        "z": 0.15216166231465533,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.6501,
+        "sd": 2.541371674903142,
+        "z": -0.255806738707268,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 69,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 58.3911,
+        "sd": 32.91371052904853,
+        "z": 0.32232464311907166,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 70.31835,
+        "sd": 6.558719637055696,
+        "z": -0.20100721984692452,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 3,
+      "anchors": 193,
+      "structured_number_control": {
+        "mean": 3.30015,
+        "sd": 7.099074585993586,
+        "z": -0.0422801586832449,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.46485,
+        "sd": 1.548245612782416,
+        "z": 0.3456492920643642,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 8,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 23.9438,
+        "sd": 18.96565162497719,
+        "z": -0.840667134210274,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.667,
+        "sd": 3.082857602939196,
+        "z": 0.4323910383434895,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 6,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.84395,
+        "sd": 2.6092907843895037,
+        "z": -0.3234403789140962,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.8055,
+        "sd": 2.5442621228953577,
+        "z": -0.31659473792084963,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 81,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 75.4914,
+        "sd": 32.286799563289016,
+        "z": 0.17061461880735407,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 71.83295,
+        "sd": 6.709496575563702,
+        "z": 1.3662798537504028,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_ordinal|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.3101,
+        "sd": 7.095543530273068,
+        "z": -0.46650407905715613,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.47375,
+        "sd": 1.545027811238361,
+        "z": -0.30662878464322446,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 6,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 22.36605,
+        "sd": 19.177978449187492,
+        "z": -0.8533772234316687,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.69265,
+        "sd": 3.057611155379309,
+        "z": -0.22653305629834883,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 6,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.619,
+        "sd": 2.7755430099351734,
+        "z": -0.2230194227883564,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.817,
+        "sd": 2.578373712245763,
+        "z": -0.3168664015304412,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 71,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 72.3224,
+        "sd": 31.132214155758344,
+        "z": -0.042476901687232074,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 71.73805,
+        "sd": 6.7907976112898485,
+        "z": -0.10868384573455363,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_ordinal|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_ordinal",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_ordinal|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 3,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 3.8787,
+        "sd": 7.054061688842819,
+        "z": -0.12456653184502357,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.46485,
+        "sd": 1.548245612782416,
+        "z": 0.3456492920643642,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|bounded|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 13,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 5.11715,
+        "sd": 4.364862641309576,
+        "z": 1.8059789385800544,
+        "p_fwer": 0.9985000749962502
+      },
+      "within_unit_control": {
+        "mean": 4.45525,
+        "sd": 2.6904455834489567,
+        "z": 3.1759609086931424,
+        "p_fwer": 0.7867606619669016
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|bounded|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 3,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 3.5836,
+        "sd": 2.0438960443231937,
+        "z": -0.285533112909982,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.6731,
+        "sd": 2.1195132436481736,
+        "z": -0.7893793563281571,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|bounded|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 57,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 35.06875,
+        "sd": 31.14344752010445,
+        "z": 0.7042010999534468,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 56.72625,
+        "sd": 4.740866053528593,
+        "z": 0.05774261430487992,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|bounded|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 1,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 2.77575,
+        "sd": 6.290140057065503,
+        "z": -0.28230690952665827,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.5277,
+        "sd": 1.2084422658944034,
+        "z": -0.4366778743951279,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|bounded|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 6,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 3.1265,
+        "sd": 1.9332609109998575,
+        "z": 1.4863487818174852,
+        "p_fwer": 0.999950002499875
+      },
+      "within_unit_control": {
+        "mean": 4.4281,
+        "sd": 2.6640439917538905,
+        "z": 0.5900428089271641,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|bounded|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 3,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 3.55735,
+        "sd": 1.9326952624508602,
+        "z": -0.2883796586189288,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 4.6284,
+        "sd": 2.0698341576078017,
+        "z": -0.7867296971666626,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|bounded|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 50,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 36.47225,
+        "sd": 31.871280644767005,
+        "z": 0.42444952717082424,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 56.70405,
+        "sd": 4.773118854323636,
+        "z": -1.4045428585812965,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|bounded|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "bounded",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|bounded|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 134,
+      "structured_number_control": {
+        "mean": 2.7827,
+        "sd": 6.297307417460259,
+        "z": -0.44188727269126704,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 1.5218,
+        "sd": 1.2144236328398752,
+        "z": -1.2531047312059787,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|forward|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|wrapped|forward"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 15,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 7.5722,
+        "sd": 4.371691567345528,
+        "z": 1.6990677145391864,
+        "p_fwer": 0.9992500374981251
+      },
+      "within_unit_control": {
+        "mean": 6.7083,
+        "sd": 3.0866180699918147,
+        "z": 2.6863381902063406,
+        "p_fwer": 0.9512024398780061
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|forward|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|wrapped|forward"
+      },
+      "metric": "selector_state_matches",
+      "score": 4,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 6.5335,
+        "sd": 2.712854170426416,
+        "z": -0.9338872791683364,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.8235,
+        "sd": 2.5333274067913125,
+        "z": -1.1145420810712412,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|forward|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|wrapped|forward"
+      },
+      "metric": "rune_collisions",
+      "score": 76,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 74.78575,
+        "sd": 31.46901884294299,
+        "z": 0.0385855690658848,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 71.80075,
+        "sd": 6.568725099857747,
+        "z": 0.6392793024769671,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|forward|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "forward",
+        "id": "per_page|page32_prime|wrapped|forward"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 2,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.1979,
+        "sd": 6.95228276107927,
+        "z": -0.459978414270302,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.28575,
+        "sd": 1.4921785876697196,
+        "z": -0.19149852595475547,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|reverse|strong_boundary_hits",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|wrapped|reverse"
+      },
+      "metric": "strong_boundary_hits",
+      "score": 8,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 4.39405,
+        "sd": 2.266004103592931,
+        "z": 1.5913254500653717,
+        "p_fwer": 0.999550022498875
+      },
+      "within_unit_control": {
+        "mean": 6.6812,
+        "sd": 3.05705193936904,
+        "z": 0.4313960070538396,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|reverse|selector_state_matches",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|wrapped|reverse"
+      },
+      "metric": "selector_state_matches",
+      "score": 4,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 5.9178,
+        "sd": 2.255757779549924,
+        "z": -0.8501799339389379,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 6.78465,
+        "sd": 2.538793882437091,
+        "z": -1.096839731363659,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|reverse|rune_collisions",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|wrapped|reverse"
+      },
+      "metric": "rune_collisions",
+      "score": 61,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 69.46685,
+        "sd": 31.540534254788728,
+        "z": -0.26844345538359077,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 71.78725,
+        "sd": 6.5851110421540895,
+        "z": -1.638127273928448,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "address|per_page|page32_prime|wrapped|reverse|reversal_pair_concordance",
+      "rule": {
+        "scope": "per_page",
+        "transform": "page32_prime",
+        "map": "wrapped",
+        "orientation": "reverse",
+        "id": "per_page|page32_prime|wrapped|reverse"
+      },
+      "metric": "reversal_pair_concordance",
+      "score": 0,
+      "anchors": 200,
+      "structured_number_control": {
+        "mean": 4.4958,
+        "sd": 7.0482822276069514,
+        "z": -0.6378575452598504,
+        "p_fwer": 1
+      },
+      "within_unit_control": {
+        "mean": 2.2708,
+        "sd": 1.4885453839235134,
+        "z": -1.5255161344255537,
+        "p_fwer": 1
+      }
+    }
+  ],
+  "state_results": [
+    {
+      "id": "state|split_full|strong_boundary_rate",
+      "scope": "split_full",
+      "metric": "strong_boundary_rate",
+      "score": 0.024255024255024255,
+      "residue_control": {
+        "mean": 0.025955936953881747,
+        "sd": 0.002863983817442139,
+        "z": -0.5938974544823368,
+        "p_fwer": 0.9906004699765012
+      },
+      "within_unit_control": {
+        "mean": 0.025938981288980794,
+        "sd": 0.003619288125402109,
+        "z": -0.4652729972332469,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|split_full|next_rune_concentration",
+      "scope": "split_full",
+      "metric": "next_rune_concentration",
+      "score": 0.005368870258660004,
+      "residue_control": {
+        "mean": 0.004914820889791158,
+        "sd": 0.0003434564158184752,
+        "z": 1.3219999626060923,
+        "p_fwer": 0.30938453077346134
+      },
+      "within_unit_control": {
+        "mean": 0.0046753869386753156,
+        "sd": 0.011786941405303852,
+        "z": 0.05883488312520476,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|split_full|adjacent_equality_rate",
+      "scope": "split_full",
+      "metric": "adjacent_equality_rate",
+      "score": 0.005547850208044383,
+      "residue_control": {
+        "mean": 0.007147531895747912,
+        "sd": 0.002039150243970879,
+        "z": -0.7844844647584359,
+        "p_fwer": 0.9950002499875006
+      },
+      "within_unit_control": {
+        "mean": 0.03412832871012548,
+        "sd": 0.01270674883503571,
+        "z": -2.249236124293062,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|per_section|strong_boundary_rate",
+      "scope": "per_section",
+      "metric": "strong_boundary_rate",
+      "score": 0.024255024255024255,
+      "residue_control": {
+        "mean": 0.026618847664520336,
+        "sd": 0.0028038927156774154,
+        "z": -0.8430505904449289,
+        "p_fwer": 0.9972501374931253
+      },
+      "within_unit_control": {
+        "mean": 0.026626472626472206,
+        "sd": 0.003741607970856541,
+        "z": -0.6338046075161292,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|per_section|next_rune_concentration",
+      "scope": "per_section",
+      "metric": "next_rune_concentration",
+      "score": 0.005390068458652794,
+      "residue_control": {
+        "mean": 0.004916098485469958,
+        "sd": 0.0003425054470240553,
+        "z": 1.3838319282249176,
+        "p_fwer": 0.28428578571071444
+      },
+      "within_unit_control": {
+        "mean": 0.004668318325834613,
+        "sd": 0.002467003887113422,
+        "z": 0.2925614088361581,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|per_section|adjacent_equality_rate",
+      "scope": "per_section",
+      "metric": "adjacent_equality_rate",
+      "score": 0.005551700208188758,
+      "residue_control": {
+        "mean": 0.007151866167389426,
+        "sd": 0.00203927131580982,
+        "z": -0.7846753626136415,
+        "p_fwer": 0.9950502474876256
+      },
+      "within_unit_control": {
+        "mean": 0.03481374045801445,
+        "sd": 0.012030193058122701,
+        "z": -2.4323832633814773,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|per_page|strong_boundary_rate",
+      "scope": "per_page",
+      "metric": "strong_boundary_rate",
+      "score": 0.0297990297990298,
+      "residue_control": {
+        "mean": 0.03321357623065437,
+        "sd": 0.0038455346574701693,
+        "z": -0.8879250184344649,
+        "p_fwer": 0.9977501124943753
+      },
+      "within_unit_control": {
+        "mean": 0.033208523908524475,
+        "sd": 0.004089754260396513,
+        "z": -0.8336672309411853,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|per_page|next_rune_concentration",
+      "scope": "per_page",
+      "metric": "next_rune_concentration",
+      "score": 0.005333479317664883,
+      "residue_control": {
+        "mean": 0.004928237814351326,
+        "sd": 0.0003376057574050507,
+        "z": 1.2003394326814103,
+        "p_fwer": 0.36998150092495374
+      },
+      "within_unit_control": {
+        "mean": 0.004736593670153042,
+        "sd": 0.0008310855058052786,
+        "z": 0.7182000448118623,
+        "p_fwer": 1
+      }
+    },
+    {
+      "id": "state|per_page|adjacent_equality_rate",
+      "scope": "per_page",
+      "metric": "adjacent_equality_rate",
+      "score": 0.005574912891986063,
+      "residue_control": {
+        "mean": 0.007175204094944907,
+        "sd": 0.0020445621259109216,
+        "z": -0.7827060780781413,
+        "p_fwer": 0.9949002549872507
+      },
+      "within_unit_control": {
+        "mean": 0.0377621951219513,
+        "sd": 0.013514870963205158,
+        "z": -2.3816196482819967,
+        "p_fwer": 1
+      }
+    }
+  ],
+  "survivors": [],
+  "discovery_survivors": null,
+  "replicated": [],
+  "decision": "NO_DISCOVERY_ADDRESS_OR_STATE_CANDIDATE"
+}
