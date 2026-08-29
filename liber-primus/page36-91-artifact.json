@@ -1,0 +1,3049 @@
+{
+  "artifact": "Page 36 transcription-derived four-row 91-rune subset",
+  "status": "not_an_intrinsic_image_object",
+  "provenance": {
+    "upstream_commit": "1ccf9583b7064ffd6feb52a49442311048295b41",
+    "original_lp2_path": "liber-primus/original-onion7/36.jpg",
+    "full_book_alias": "liber-primus/pages/53.jpg",
+    "image_sha256": "3b54a31a9e796e2c01b4e80d46e1092dee2e1142a7c61873e282078e2c776cb9",
+    "image_bytes": 511099,
+    "image_dimensions_px": [
+      2400,
+      3600
+    ],
+    "transcription_path": "liber-primus/runes-text.txt",
+    "slice_source_lines_inclusive": [
+      453,
+      456
+    ],
+    "slice_sha256": "ab1ed9c60b4ee13e85554fb31e69769f7d67270f0af1f1edc05e71ef7c108110",
+    "slice_bytes": 299
+  },
+  "geometry_method": {
+    "origin": "top-left",
+    "bbox_coordinates": "inclusive",
+    "primary_coordinates": "logical row and token/rune column",
+    "pixel_rule": "connected-component x intervals from RGB channels <100 within frozen row y bands",
+    "warning": "pixel boxes are threshold-dependent JPEG measurements; logical row/column coordinates are invariant"
+  },
+  "intrinsic_boundary_finding": {
+    "is_91_intrinsic": false,
+    "reason": "The image has five contiguous same-style rows before the red marker: 23+24+22+22+8=99. No visible boundary follows row four.",
+    "natural_pre_marker_rune_count": 99,
+    "following_row": {
+      "source_line": 457,
+      "transcription": "ᛞ-ᛁᚦᚩᚻᛡᚷᚻ./",
+      "rune_count": 8,
+      "bbox_inclusive_px": [
+        601,
+        1426,
+        1012,
+        1539
+      ]
+    },
+    "red_marker_bbox_inclusive_px": [
+      974,
+      1452,
+      1012,
+      1512
+    ],
+    "red_numeral_1_bbox_inclusive_px": [
+      620,
+      1693,
+      644,
+      1784
+    ],
+    "observation_only": "91 = 7×13; the image supplies neither seven rows nor thirteen columns"
+  },
+  "surrounding_linear_relationship": {
+    "previous": {
+      "source_line": 451,
+      "page": 35,
+      "rune": "ᛇ",
+      "relation": "previous canonical rune across page boundary"
+    },
+    "first": {
+      "source_line": 453,
+      "page": 36,
+      "rune": "ᚣ"
+    },
+    "last": {
+      "source_line": 456,
+      "page": 36,
+      "rune": "ᛄ"
+    },
+    "next": {
+      "source_line": 457,
+      "page": 36,
+      "rune": "ᛞ",
+      "relation": "next rune in the fifth contiguous image row"
+    },
+    "slash_note": "The trailing slash is a transcription-only line terminator and has no image bounding box."
+  },
+  "rows": [
+    {
+      "row": 1,
+      "source_line": 453,
+      "transcription": "ᚣᚾ-ᚢᚹᛝᚻ-ᚷᚣᚱ-ᚩᛁ-ᛚᚾᛉ-ᚾᚩᛈ-ᚠᛠᚫᚫᚩ-ᛉ/",
+      "rune_count": 23,
+      "word_mark_count": 7,
+      "row_bbox_inclusive_px": [
+        601,
+        673,
+        1792,
+        786
+      ],
+      "tokens": [
+        {
+          "token_id": 1,
+          "row": 1,
+          "token_col": 1,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            601,
+            673,
+            652,
+            786
+          ],
+          "centroid_px": [
+            626.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 1,
+          "rune_col": 1,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 2,
+          "row": 1,
+          "token_col": 2,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            659,
+            673,
+            691,
+            786
+          ],
+          "centroid_px": [
+            675.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 2,
+          "rune_col": 2,
+          "rune": "ᚾ",
+          "rune_index_0": 9,
+          "gematria_prime": 29
+        },
+        {
+          "token_id": 3,
+          "row": 1,
+          "token_col": 3,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            697,
+            673,
+            705,
+            786
+          ],
+          "centroid_px": [
+            701.0,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 4,
+          "row": 1,
+          "token_col": 4,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            713,
+            673,
+            764,
+            786
+          ],
+          "centroid_px": [
+            738.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 3,
+          "rune_col": 3,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 5,
+          "row": 1,
+          "token_col": 5,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            770,
+            673,
+            804,
+            786
+          ],
+          "centroid_px": [
+            787.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 4,
+          "rune_col": 4,
+          "rune": "ᚹ",
+          "rune_index_0": 7,
+          "gematria_prime": 19
+        },
+        {
+          "token_id": 6,
+          "row": 1,
+          "token_col": 6,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            808,
+            673,
+            857,
+            786
+          ],
+          "centroid_px": [
+            832.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 5,
+          "rune_col": 5,
+          "rune": "ᛝ",
+          "rune_index_0": 21,
+          "gematria_prime": 79
+        },
+        {
+          "token_id": 7,
+          "row": 1,
+          "token_col": 7,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            863,
+            673,
+            906,
+            786
+          ],
+          "centroid_px": [
+            884.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 6,
+          "rune_col": 6,
+          "rune": "ᚻ",
+          "rune_index_0": 8,
+          "gematria_prime": 23
+        },
+        {
+          "token_id": 8,
+          "row": 1,
+          "token_col": 8,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            914,
+            673,
+            922,
+            786
+          ],
+          "centroid_px": [
+            918.0,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 9,
+          "row": 1,
+          "token_col": 9,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            930,
+            673,
+            972,
+            786
+          ],
+          "centroid_px": [
+            951.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 7,
+          "rune_col": 7,
+          "rune": "ᚷ",
+          "rune_index_0": 6,
+          "gematria_prime": 17
+        },
+        {
+          "token_id": 10,
+          "row": 1,
+          "token_col": 10,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            978,
+            673,
+            1030,
+            786
+          ],
+          "centroid_px": [
+            1004.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 8,
+          "rune_col": 8,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 11,
+          "row": 1,
+          "token_col": 11,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1036,
+            673,
+            1069,
+            786
+          ],
+          "centroid_px": [
+            1052.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 9,
+          "rune_col": 9,
+          "rune": "ᚱ",
+          "rune_index_0": 4,
+          "gematria_prime": 11
+        },
+        {
+          "token_id": 12,
+          "row": 1,
+          "token_col": 12,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1074,
+            673,
+            1083,
+            786
+          ],
+          "centroid_px": [
+            1078.5,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 13,
+          "row": 1,
+          "token_col": 13,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1090,
+            673,
+            1124,
+            786
+          ],
+          "centroid_px": [
+            1107.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 10,
+          "rune_col": 10,
+          "rune": "ᚩ",
+          "rune_index_0": 3,
+          "gematria_prime": 7
+        },
+        {
+          "token_id": 14,
+          "row": 1,
+          "token_col": 14,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1128,
+            673,
+            1137,
+            786
+          ],
+          "centroid_px": [
+            1132.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 11,
+          "rune_col": 11,
+          "rune": "ᛁ",
+          "rune_index_0": 10,
+          "gematria_prime": 31
+        },
+        {
+          "token_id": 15,
+          "row": 1,
+          "token_col": 15,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1144,
+            673,
+            1153,
+            786
+          ],
+          "centroid_px": [
+            1148.5,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 16,
+          "row": 1,
+          "token_col": 16,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1160,
+            673,
+            1193,
+            786
+          ],
+          "centroid_px": [
+            1176.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 12,
+          "rune_col": 12,
+          "rune": "ᛚ",
+          "rune_index_0": 20,
+          "gematria_prime": 73
+        },
+        {
+          "token_id": 17,
+          "row": 1,
+          "token_col": 17,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1198,
+            673,
+            1230,
+            786
+          ],
+          "centroid_px": [
+            1214.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 13,
+          "rune_col": 13,
+          "rune": "ᚾ",
+          "rune_index_0": 9,
+          "gematria_prime": 29
+        },
+        {
+          "token_id": 18,
+          "row": 1,
+          "token_col": 18,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1237,
+            673,
+            1301,
+            786
+          ],
+          "centroid_px": [
+            1269.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 14,
+          "rune_col": 14,
+          "rune": "ᛉ",
+          "rune_index_0": 14,
+          "gematria_prime": 47
+        },
+        {
+          "token_id": 19,
+          "row": 1,
+          "token_col": 19,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1304,
+            673,
+            1312,
+            786
+          ],
+          "centroid_px": [
+            1308.0,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 20,
+          "row": 1,
+          "token_col": 20,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1320,
+            673,
+            1353,
+            786
+          ],
+          "centroid_px": [
+            1336.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 15,
+          "rune_col": 15,
+          "rune": "ᚾ",
+          "rune_index_0": 9,
+          "gematria_prime": 29
+        },
+        {
+          "token_id": 21,
+          "row": 1,
+          "token_col": 21,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1359,
+            673,
+            1393,
+            786
+          ],
+          "centroid_px": [
+            1376.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 16,
+          "rune_col": 16,
+          "rune": "ᚩ",
+          "rune_index_0": 3,
+          "gematria_prime": 7
+        },
+        {
+          "token_id": 22,
+          "row": 1,
+          "token_col": 22,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1397,
+            673,
+            1449,
+            786
+          ],
+          "centroid_px": [
+            1423.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 17,
+          "rune_col": 17,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        },
+        {
+          "token_id": 23,
+          "row": 1,
+          "token_col": 23,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1452,
+            673,
+            1460,
+            786
+          ],
+          "centroid_px": [
+            1456.0,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 24,
+          "row": 1,
+          "token_col": 24,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1468,
+            673,
+            1501,
+            786
+          ],
+          "centroid_px": [
+            1484.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 18,
+          "rune_col": 18,
+          "rune": "ᚠ",
+          "rune_index_0": 0,
+          "gematria_prime": 2
+        },
+        {
+          "token_id": 25,
+          "row": 1,
+          "token_col": 25,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1505,
+            673,
+            1591,
+            786
+          ],
+          "centroid_px": [
+            1548.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 19,
+          "rune_col": 19,
+          "rune": "ᛠ",
+          "rune_index_0": 28,
+          "gematria_prime": 109
+        },
+        {
+          "token_id": 26,
+          "row": 1,
+          "token_col": 26,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1594,
+            673,
+            1627,
+            786
+          ],
+          "centroid_px": [
+            1610.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 20,
+          "rune_col": 20,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 27,
+          "row": 1,
+          "token_col": 27,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1633,
+            673,
+            1666,
+            786
+          ],
+          "centroid_px": [
+            1649.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 21,
+          "rune_col": 21,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 28,
+          "row": 1,
+          "token_col": 28,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1673,
+            673,
+            1706,
+            786
+          ],
+          "centroid_px": [
+            1689.5,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 22,
+          "rune_col": 22,
+          "rune": "ᚩ",
+          "rune_index_0": 3,
+          "gematria_prime": 7
+        },
+        {
+          "token_id": 29,
+          "row": 1,
+          "token_col": 29,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1711,
+            673,
+            1719,
+            786
+          ],
+          "centroid_px": [
+            1715.0,
+            729.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 30,
+          "row": 1,
+          "token_col": 30,
+          "source_line": 453,
+          "bbox_inclusive_px": [
+            1728,
+            673,
+            1792,
+            786
+          ],
+          "centroid_px": [
+            1760.0,
+            729.5
+          ],
+          "type": "rune",
+          "rune_id": 23,
+          "rune_col": 23,
+          "rune": "ᛉ",
+          "rune_index_0": 14,
+          "gematria_prime": 47
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "source_line": 454,
+      "transcription": "ᚾᛋᛟᚫᛚ-ᚾᚫ-ᚦᚢᛠᚣᚫ-ᛈᛁᛇᚢᚱᛄ-ᛈᛟᛄᚪᛝᛈ/",
+      "rune_count": 24,
+      "word_mark_count": 4,
+      "row_bbox_inclusive_px": [
+        601,
+        861,
+        1787,
+        974
+      ],
+      "tokens": [
+        {
+          "token_id": 31,
+          "row": 2,
+          "token_col": 1,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            601,
+            861,
+            634,
+            974
+          ],
+          "centroid_px": [
+            617.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 24,
+          "rune_col": 1,
+          "rune": "ᚾ",
+          "rune_index_0": 9,
+          "gematria_prime": 29
+        },
+        {
+          "token_id": 32,
+          "row": 2,
+          "token_col": 2,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            639,
+            861,
+            673,
+            974
+          ],
+          "centroid_px": [
+            656.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 25,
+          "rune_col": 2,
+          "rune": "ᛋ",
+          "rune_index_0": 15,
+          "gematria_prime": 53
+        },
+        {
+          "token_id": 33,
+          "row": 2,
+          "token_col": 3,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            679,
+            861,
+            722,
+            974
+          ],
+          "centroid_px": [
+            700.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 26,
+          "rune_col": 3,
+          "rune": "ᛟ",
+          "rune_index_0": 22,
+          "gematria_prime": 83
+        },
+        {
+          "token_id": 34,
+          "row": 2,
+          "token_col": 4,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            728,
+            861,
+            761,
+            974
+          ],
+          "centroid_px": [
+            744.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 27,
+          "rune_col": 4,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 35,
+          "row": 2,
+          "token_col": 5,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            767,
+            861,
+            800,
+            974
+          ],
+          "centroid_px": [
+            783.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 28,
+          "rune_col": 5,
+          "rune": "ᛚ",
+          "rune_index_0": 20,
+          "gematria_prime": 73
+        },
+        {
+          "token_id": 36,
+          "row": 2,
+          "token_col": 6,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            804,
+            861,
+            812,
+            974
+          ],
+          "centroid_px": [
+            808.0,
+            917.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 37,
+          "row": 2,
+          "token_col": 7,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            821,
+            861,
+            853,
+            974
+          ],
+          "centroid_px": [
+            837.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 29,
+          "rune_col": 6,
+          "rune": "ᚾ",
+          "rune_index_0": 9,
+          "gematria_prime": 29
+        },
+        {
+          "token_id": 38,
+          "row": 2,
+          "token_col": 8,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            859,
+            861,
+            892,
+            974
+          ],
+          "centroid_px": [
+            875.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 30,
+          "rune_col": 7,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 39,
+          "row": 2,
+          "token_col": 9,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            898,
+            861,
+            906,
+            974
+          ],
+          "centroid_px": [
+            902.0,
+            917.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 40,
+          "row": 2,
+          "token_col": 10,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            914,
+            861,
+            947,
+            974
+          ],
+          "centroid_px": [
+            930.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 31,
+          "rune_col": 8,
+          "rune": "ᚦ",
+          "rune_index_0": 2,
+          "gematria_prime": 5
+        },
+        {
+          "token_id": 41,
+          "row": 2,
+          "token_col": 11,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            952,
+            861,
+            1003,
+            974
+          ],
+          "centroid_px": [
+            977.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 32,
+          "rune_col": 9,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 42,
+          "row": 2,
+          "token_col": 12,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1008,
+            861,
+            1094,
+            974
+          ],
+          "centroid_px": [
+            1051.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 33,
+          "rune_col": 10,
+          "rune": "ᛠ",
+          "rune_index_0": 28,
+          "gematria_prime": 109
+        },
+        {
+          "token_id": 43,
+          "row": 2,
+          "token_col": 13,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1097,
+            861,
+            1149,
+            974
+          ],
+          "centroid_px": [
+            1123.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 34,
+          "rune_col": 11,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 44,
+          "row": 2,
+          "token_col": 14,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1154,
+            861,
+            1187,
+            974
+          ],
+          "centroid_px": [
+            1170.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 35,
+          "rune_col": 12,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 45,
+          "row": 2,
+          "token_col": 15,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1194,
+            861,
+            1202,
+            974
+          ],
+          "centroid_px": [
+            1198.0,
+            917.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 46,
+          "row": 2,
+          "token_col": 16,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1210,
+            861,
+            1261,
+            974
+          ],
+          "centroid_px": [
+            1235.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 36,
+          "rune_col": 13,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        },
+        {
+          "token_id": 47,
+          "row": 2,
+          "token_col": 17,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1264,
+            861,
+            1273,
+            974
+          ],
+          "centroid_px": [
+            1268.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 37,
+          "rune_col": 14,
+          "rune": "ᛁ",
+          "rune_index_0": 10,
+          "gematria_prime": 31
+        },
+        {
+          "token_id": 48,
+          "row": 2,
+          "token_col": 18,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1281,
+            861,
+            1321,
+            974
+          ],
+          "centroid_px": [
+            1301.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 38,
+          "rune_col": 15,
+          "rune": "ᛇ",
+          "rune_index_0": 12,
+          "gematria_prime": 41
+        },
+        {
+          "token_id": 49,
+          "row": 2,
+          "token_col": 19,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1326,
+            861,
+            1377,
+            974
+          ],
+          "centroid_px": [
+            1351.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 39,
+          "rune_col": 16,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 50,
+          "row": 2,
+          "token_col": 20,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1383,
+            861,
+            1417,
+            974
+          ],
+          "centroid_px": [
+            1400.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 40,
+          "rune_col": 17,
+          "rune": "ᚱ",
+          "rune_index_0": 4,
+          "gematria_prime": 11
+        },
+        {
+          "token_id": 51,
+          "row": 2,
+          "token_col": 21,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1422,
+            861,
+            1466,
+            974
+          ],
+          "centroid_px": [
+            1444.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 41,
+          "rune_col": 18,
+          "rune": "ᛄ",
+          "rune_index_0": 11,
+          "gematria_prime": 37
+        },
+        {
+          "token_id": 52,
+          "row": 2,
+          "token_col": 22,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1472,
+            861,
+            1480,
+            974
+          ],
+          "centroid_px": [
+            1476.0,
+            917.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 53,
+          "row": 2,
+          "token_col": 23,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1488,
+            861,
+            1539,
+            974
+          ],
+          "centroid_px": [
+            1513.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 42,
+          "rune_col": 19,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        },
+        {
+          "token_id": 54,
+          "row": 2,
+          "token_col": 24,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1542,
+            861,
+            1585,
+            974
+          ],
+          "centroid_px": [
+            1563.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 43,
+          "rune_col": 20,
+          "rune": "ᛟ",
+          "rune_index_0": 22,
+          "gematria_prime": 83
+        },
+        {
+          "token_id": 55,
+          "row": 2,
+          "token_col": 25,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1592,
+            861,
+            1636,
+            974
+          ],
+          "centroid_px": [
+            1614.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 44,
+          "rune_col": 21,
+          "rune": "ᛄ",
+          "rune_index_0": 11,
+          "gematria_prime": 37
+        },
+        {
+          "token_id": 56,
+          "row": 2,
+          "token_col": 26,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1642,
+            861,
+            1675,
+            974
+          ],
+          "centroid_px": [
+            1658.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 45,
+          "rune_col": 22,
+          "rune": "ᚪ",
+          "rune_index_0": 24,
+          "gematria_prime": 97
+        },
+        {
+          "token_id": 57,
+          "row": 2,
+          "token_col": 27,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1680,
+            861,
+            1729,
+            974
+          ],
+          "centroid_px": [
+            1704.5,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 46,
+          "rune_col": 23,
+          "rune": "ᛝ",
+          "rune_index_0": 21,
+          "gematria_prime": 79
+        },
+        {
+          "token_id": 58,
+          "row": 2,
+          "token_col": 28,
+          "source_line": 454,
+          "bbox_inclusive_px": [
+            1735,
+            861,
+            1787,
+            974
+          ],
+          "centroid_px": [
+            1761.0,
+            917.5
+          ],
+          "type": "rune",
+          "rune_id": 47,
+          "rune_col": 24,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "source_line": 455,
+      "transcription": "ᚦᛈᚪᛝ-ᚣᛗᛟ-ᛉᛒᚢᛏᛇᛗᛈᚫᚣ-ᛉᚫᚣᚱᚫᚣ/",
+      "rune_count": 22,
+      "word_mark_count": 3,
+      "row_bbox_inclusive_px": [
+        601,
+        1050,
+        1768,
+        1163
+      ],
+      "tokens": [
+        {
+          "token_id": 59,
+          "row": 3,
+          "token_col": 1,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            601,
+            1050,
+            634,
+            1163
+          ],
+          "centroid_px": [
+            617.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 48,
+          "rune_col": 1,
+          "rune": "ᚦ",
+          "rune_index_0": 2,
+          "gematria_prime": 5
+        },
+        {
+          "token_id": 60,
+          "row": 3,
+          "token_col": 2,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            638,
+            1050,
+            690,
+            1163
+          ],
+          "centroid_px": [
+            664.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 49,
+          "rune_col": 2,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        },
+        {
+          "token_id": 61,
+          "row": 3,
+          "token_col": 3,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            693,
+            1050,
+            727,
+            1163
+          ],
+          "centroid_px": [
+            710.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 50,
+          "rune_col": 3,
+          "rune": "ᚪ",
+          "rune_index_0": 24,
+          "gematria_prime": 97
+        },
+        {
+          "token_id": 62,
+          "row": 3,
+          "token_col": 4,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            731,
+            1050,
+            780,
+            1163
+          ],
+          "centroid_px": [
+            755.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 51,
+          "rune_col": 4,
+          "rune": "ᛝ",
+          "rune_index_0": 21,
+          "gematria_prime": 79
+        },
+        {
+          "token_id": 63,
+          "row": 3,
+          "token_col": 5,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            786,
+            1050,
+            795,
+            1163
+          ],
+          "centroid_px": [
+            790.5,
+            1106.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 64,
+          "row": 3,
+          "token_col": 6,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            802,
+            1050,
+            854,
+            1163
+          ],
+          "centroid_px": [
+            828.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 52,
+          "rune_col": 5,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 65,
+          "row": 3,
+          "token_col": 7,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            860,
+            1050,
+            911,
+            1163
+          ],
+          "centroid_px": [
+            885.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 53,
+          "rune_col": 6,
+          "rune": "ᛗ",
+          "rune_index_0": 19,
+          "gematria_prime": 71
+        },
+        {
+          "token_id": 66,
+          "row": 3,
+          "token_col": 8,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            919,
+            1050,
+            962,
+            1163
+          ],
+          "centroid_px": [
+            940.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 54,
+          "rune_col": 7,
+          "rune": "ᛟ",
+          "rune_index_0": 22,
+          "gematria_prime": 83
+        },
+        {
+          "token_id": 67,
+          "row": 3,
+          "token_col": 9,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            968,
+            1050,
+            977,
+            1163
+          ],
+          "centroid_px": [
+            972.5,
+            1106.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 68,
+          "row": 3,
+          "token_col": 10,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            985,
+            1050,
+            1049,
+            1163
+          ],
+          "centroid_px": [
+            1017.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 55,
+          "rune_col": 8,
+          "rune": "ᛉ",
+          "rune_index_0": 14,
+          "gematria_prime": 47
+        },
+        {
+          "token_id": 69,
+          "row": 3,
+          "token_col": 11,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1052,
+            1050,
+            1085,
+            1163
+          ],
+          "centroid_px": [
+            1068.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 56,
+          "rune_col": 9,
+          "rune": "ᛒ",
+          "rune_index_0": 17,
+          "gematria_prime": 61
+        },
+        {
+          "token_id": 70,
+          "row": 3,
+          "token_col": 12,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1091,
+            1050,
+            1143,
+            1163
+          ],
+          "centroid_px": [
+            1117.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 57,
+          "rune_col": 10,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 71,
+          "row": 3,
+          "token_col": 13,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1148,
+            1050,
+            1197,
+            1163
+          ],
+          "centroid_px": [
+            1172.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 58,
+          "rune_col": 11,
+          "rune": "ᛏ",
+          "rune_index_0": 16,
+          "gematria_prime": 59
+        },
+        {
+          "token_id": 72,
+          "row": 3,
+          "token_col": 14,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1202,
+            1050,
+            1242,
+            1163
+          ],
+          "centroid_px": [
+            1222.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 59,
+          "rune_col": 12,
+          "rune": "ᛇ",
+          "rune_index_0": 12,
+          "gematria_prime": 41
+        },
+        {
+          "token_id": 73,
+          "row": 3,
+          "token_col": 15,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1248,
+            1050,
+            1299,
+            1163
+          ],
+          "centroid_px": [
+            1273.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 60,
+          "rune_col": 13,
+          "rune": "ᛗ",
+          "rune_index_0": 19,
+          "gematria_prime": 71
+        },
+        {
+          "token_id": 74,
+          "row": 3,
+          "token_col": 16,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1307,
+            1050,
+            1359,
+            1163
+          ],
+          "centroid_px": [
+            1333.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 61,
+          "rune_col": 14,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        },
+        {
+          "token_id": 75,
+          "row": 3,
+          "token_col": 17,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1362,
+            1050,
+            1395,
+            1163
+          ],
+          "centroid_px": [
+            1378.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 62,
+          "rune_col": 15,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 76,
+          "row": 3,
+          "token_col": 18,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1401,
+            1050,
+            1453,
+            1163
+          ],
+          "centroid_px": [
+            1427.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 63,
+          "rune_col": 16,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 77,
+          "row": 3,
+          "token_col": 19,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1459,
+            1050,
+            1467,
+            1163
+          ],
+          "centroid_px": [
+            1463.0,
+            1106.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 78,
+          "row": 3,
+          "token_col": 20,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1475,
+            1050,
+            1539,
+            1163
+          ],
+          "centroid_px": [
+            1507.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 64,
+          "rune_col": 17,
+          "rune": "ᛉ",
+          "rune_index_0": 14,
+          "gematria_prime": 47
+        },
+        {
+          "token_id": 79,
+          "row": 3,
+          "token_col": 21,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1542,
+            1050,
+            1575,
+            1163
+          ],
+          "centroid_px": [
+            1558.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 65,
+          "rune_col": 18,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 80,
+          "row": 3,
+          "token_col": 22,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1581,
+            1050,
+            1633,
+            1163
+          ],
+          "centroid_px": [
+            1607.0,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 66,
+          "rune_col": 19,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 81,
+          "row": 3,
+          "token_col": 23,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1639,
+            1050,
+            1672,
+            1163
+          ],
+          "centroid_px": [
+            1655.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 67,
+          "rune_col": 20,
+          "rune": "ᚱ",
+          "rune_index_0": 4,
+          "gematria_prime": 11
+        },
+        {
+          "token_id": 82,
+          "row": 3,
+          "token_col": 24,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1677,
+            1050,
+            1710,
+            1163
+          ],
+          "centroid_px": [
+            1693.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 68,
+          "rune_col": 21,
+          "rune": "ᚫ",
+          "rune_index_0": 25,
+          "gematria_prime": 101
+        },
+        {
+          "token_id": 83,
+          "row": 3,
+          "token_col": 25,
+          "source_line": 455,
+          "bbox_inclusive_px": [
+            1717,
+            1050,
+            1768,
+            1163
+          ],
+          "centroid_px": [
+            1742.5,
+            1106.5
+          ],
+          "type": "rune",
+          "rune_id": 69,
+          "rune_col": 22,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "source_line": 456,
+      "transcription": "ᚠᚠᛗᛡ-ᛉᛖ-ᚱᚢᛏᚷᚢᚣᚱ-ᛡᚢᚩᛇᛁ-ᛄᚠᛈᛄ/",
+      "rune_count": 22,
+      "word_mark_count": 4,
+      "row_bbox_inclusive_px": [
+        601,
+        1238,
+        1738,
+        1351
+      ],
+      "tokens": [
+        {
+          "token_id": 84,
+          "row": 4,
+          "token_col": 1,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            601,
+            1238,
+            634,
+            1351
+          ],
+          "centroid_px": [
+            617.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 70,
+          "rune_col": 1,
+          "rune": "ᚠ",
+          "rune_index_0": 0,
+          "gematria_prime": 2
+        },
+        {
+          "token_id": 85,
+          "row": 4,
+          "token_col": 2,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            639,
+            1238,
+            672,
+            1351
+          ],
+          "centroid_px": [
+            655.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 71,
+          "rune_col": 2,
+          "rune": "ᚠ",
+          "rune_index_0": 0,
+          "gematria_prime": 2
+        },
+        {
+          "token_id": 86,
+          "row": 4,
+          "token_col": 3,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            677,
+            1238,
+            728,
+            1351
+          ],
+          "centroid_px": [
+            702.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 72,
+          "rune_col": 3,
+          "rune": "ᛗ",
+          "rune_index_0": 19,
+          "gematria_prime": 71
+        },
+        {
+          "token_id": 87,
+          "row": 4,
+          "token_col": 4,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            737,
+            1238,
+            788,
+            1351
+          ],
+          "centroid_px": [
+            762.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 73,
+          "rune_col": 4,
+          "rune": "ᛡ",
+          "rune_index_0": 27,
+          "gematria_prime": 107
+        },
+        {
+          "token_id": 88,
+          "row": 4,
+          "token_col": 5,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            794,
+            1238,
+            803,
+            1351
+          ],
+          "centroid_px": [
+            798.5,
+            1294.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 89,
+          "row": 4,
+          "token_col": 6,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            811,
+            1238,
+            875,
+            1351
+          ],
+          "centroid_px": [
+            843.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 74,
+          "rune_col": 5,
+          "rune": "ᛉ",
+          "rune_index_0": 14,
+          "gematria_prime": 47
+        },
+        {
+          "token_id": 90,
+          "row": 4,
+          "token_col": 7,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            878,
+            1238,
+            929,
+            1351
+          ],
+          "centroid_px": [
+            903.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 75,
+          "rune_col": 6,
+          "rune": "ᛖ",
+          "rune_index_0": 18,
+          "gematria_prime": 67
+        },
+        {
+          "token_id": 91,
+          "row": 4,
+          "token_col": 8,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            937,
+            1238,
+            945,
+            1351
+          ],
+          "centroid_px": [
+            941.0,
+            1294.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 92,
+          "row": 4,
+          "token_col": 9,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            953,
+            1238,
+            987,
+            1351
+          ],
+          "centroid_px": [
+            970.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 76,
+          "rune_col": 7,
+          "rune": "ᚱ",
+          "rune_index_0": 4,
+          "gematria_prime": 11
+        },
+        {
+          "token_id": 93,
+          "row": 4,
+          "token_col": 10,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            992,
+            1238,
+            1043,
+            1351
+          ],
+          "centroid_px": [
+            1017.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 77,
+          "rune_col": 8,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 94,
+          "row": 4,
+          "token_col": 11,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1049,
+            1238,
+            1098,
+            1351
+          ],
+          "centroid_px": [
+            1073.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 78,
+          "rune_col": 9,
+          "rune": "ᛏ",
+          "rune_index_0": 16,
+          "gematria_prime": 59
+        },
+        {
+          "token_id": 95,
+          "row": 4,
+          "token_col": 12,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1102,
+            1238,
+            1145,
+            1351
+          ],
+          "centroid_px": [
+            1123.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 79,
+          "rune_col": 10,
+          "rune": "ᚷ",
+          "rune_index_0": 6,
+          "gematria_prime": 17
+        },
+        {
+          "token_id": 96,
+          "row": 4,
+          "token_col": 13,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1151,
+            1238,
+            1203,
+            1351
+          ],
+          "centroid_px": [
+            1177.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 80,
+          "rune_col": 11,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 97,
+          "row": 4,
+          "token_col": 14,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1208,
+            1238,
+            1260,
+            1351
+          ],
+          "centroid_px": [
+            1234.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 81,
+          "rune_col": 12,
+          "rune": "ᚣ",
+          "rune_index_0": 26,
+          "gematria_prime": 103
+        },
+        {
+          "token_id": 98,
+          "row": 4,
+          "token_col": 15,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1266,
+            1238,
+            1300,
+            1351
+          ],
+          "centroid_px": [
+            1283.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 82,
+          "rune_col": 13,
+          "rune": "ᚱ",
+          "rune_index_0": 4,
+          "gematria_prime": 11
+        },
+        {
+          "token_id": 99,
+          "row": 4,
+          "token_col": 16,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1305,
+            1238,
+            1313,
+            1351
+          ],
+          "centroid_px": [
+            1309.0,
+            1294.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 100,
+          "row": 4,
+          "token_col": 17,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1322,
+            1238,
+            1373,
+            1351
+          ],
+          "centroid_px": [
+            1347.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 83,
+          "rune_col": 14,
+          "rune": "ᛡ",
+          "rune_index_0": 27,
+          "gematria_prime": 107
+        },
+        {
+          "token_id": 101,
+          "row": 4,
+          "token_col": 18,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1379,
+            1238,
+            1431,
+            1351
+          ],
+          "centroid_px": [
+            1405.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 84,
+          "rune_col": 15,
+          "rune": "ᚢ",
+          "rune_index_0": 1,
+          "gematria_prime": 3
+        },
+        {
+          "token_id": 102,
+          "row": 4,
+          "token_col": 19,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1436,
+            1238,
+            1470,
+            1351
+          ],
+          "centroid_px": [
+            1453.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 85,
+          "rune_col": 16,
+          "rune": "ᚩ",
+          "rune_index_0": 3,
+          "gematria_prime": 7
+        },
+        {
+          "token_id": 103,
+          "row": 4,
+          "token_col": 20,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1475,
+            1238,
+            1515,
+            1351
+          ],
+          "centroid_px": [
+            1495.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 86,
+          "rune_col": 17,
+          "rune": "ᛇ",
+          "rune_index_0": 12,
+          "gematria_prime": 41
+        },
+        {
+          "token_id": 104,
+          "row": 4,
+          "token_col": 21,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1520,
+            1238,
+            1528,
+            1351
+          ],
+          "centroid_px": [
+            1524.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 87,
+          "rune_col": 18,
+          "rune": "ᛁ",
+          "rune_index_0": 10,
+          "gematria_prime": 31
+        },
+        {
+          "token_id": 105,
+          "row": 4,
+          "token_col": 22,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1535,
+            1238,
+            1543,
+            1351
+          ],
+          "centroid_px": [
+            1539.0,
+            1294.5
+          ],
+          "type": "word_mark",
+          "transcription": "-",
+          "image_mark": "centered_dot"
+        },
+        {
+          "token_id": 106,
+          "row": 4,
+          "token_col": 23,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1551,
+            1238,
+            1595,
+            1351
+          ],
+          "centroid_px": [
+            1573.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 88,
+          "rune_col": 19,
+          "rune": "ᛄ",
+          "rune_index_0": 11,
+          "gematria_prime": 37
+        },
+        {
+          "token_id": 107,
+          "row": 4,
+          "token_col": 24,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1601,
+            1238,
+            1634,
+            1351
+          ],
+          "centroid_px": [
+            1617.5,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 89,
+          "rune_col": 20,
+          "rune": "ᚠ",
+          "rune_index_0": 0,
+          "gematria_prime": 2
+        },
+        {
+          "token_id": 108,
+          "row": 4,
+          "token_col": 25,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1639,
+            1238,
+            1691,
+            1351
+          ],
+          "centroid_px": [
+            1665.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 90,
+          "rune_col": 21,
+          "rune": "ᛈ",
+          "rune_index_0": 13,
+          "gematria_prime": 43
+        },
+        {
+          "token_id": 109,
+          "row": 4,
+          "token_col": 26,
+          "source_line": 456,
+          "bbox_inclusive_px": [
+            1694,
+            1238,
+            1738,
+            1351
+          ],
+          "centroid_px": [
+            1716.0,
+            1294.5
+          ],
+          "type": "rune",
+          "rune_id": 91,
+          "rune_col": 22,
+          "rune": "ᛄ",
+          "rune_index_0": 11,
+          "gematria_prime": 37
+        }
+      ]
+    }
+  ],
+  "reading_orders": {
+    "rows_top_to_bottom_ltr": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "rows_top_to_bottom_rtl": [
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      47,
+      46,
+      45,
+      44,
+      43,
+      42,
+      41,
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      34,
+      33,
+      32,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      69,
+      68,
+      67,
+      66,
+      65,
+      64,
+      63,
+      62,
+      61,
+      60,
+      59,
+      58,
+      57,
+      56,
+      55,
+      54,
+      53,
+      52,
+      51,
+      50,
+      49,
+      48,
+      91,
+      90,
+      89,
+      88,
+      87,
+      86,
+      85,
+      84,
+      83,
+      82,
+      81,
+      80,
+      79,
+      78,
+      77,
+      76,
+      75,
+      74,
+      73,
+      72,
+      71,
+      70
+    ],
+    "rows_bottom_to_top_ltr": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "rows_bottom_to_top_rtl": [
+      91,
+      90,
+      89,
+      88,
+      87,
+      86,
+      85,
+      84,
+      83,
+      82,
+      81,
+      80,
+      79,
+      78,
+      77,
+      76,
+      75,
+      74,
+      73,
+      72,
+      71,
+      70,
+      69,
+      68,
+      67,
+      66,
+      65,
+      64,
+      63,
+      62,
+      61,
+      60,
+      59,
+      58,
+      57,
+      56,
+      55,
+      54,
+      53,
+      52,
+      51,
+      50,
+      49,
+      48,
+      47,
+      46,
+      45,
+      44,
+      43,
+      42,
+      41,
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      34,
+      33,
+      32,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "boustrophedon_ltr_first": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      47,
+      46,
+      45,
+      44,
+      43,
+      42,
+      41,
+      40,
+      39,
+      38,
+      37,
+      36,
+      35,
+      34,
+      33,
+      32,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      91,
+      90,
+      89,
+      88,
+      87,
+      86,
+      85,
+      84,
+      83,
+      82,
+      81,
+      80,
+      79,
+      78,
+      77,
+      76,
+      75,
+      74,
+      73,
+      72,
+      71,
+      70
+    ],
+    "boustrophedon_rtl_first": [
+      23,
+      22,
+      21,
+      20,
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      69,
+      68,
+      67,
+      66,
+      65,
+      64,
+      63,
+      62,
+      61,
+      60,
+      59,
+      58,
+      57,
+      56,
+      55,
+      54,
+      53,
+      52,
+      51,
+      50,
+      49,
+      48,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ]
+  }
+}
