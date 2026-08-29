@@ -1,0 +1,21 @@
+{
+  "version": "0.81",
+  "corpus_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+  "alphabet": "ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᚣᛡᛠ",
+  "selectors": [29, 58, 133, 167, 331, 761, 1033, 3301],
+  "long_periods": [761, 1033, 3301],
+  "discovery_sections": ["0.5", "0.6", "0.7", "0.9", "0.10"],
+  "heldout_sections": ["0.8", "0.11", "0.12"],
+  "signals": ["rune_centered", "adjacent_equality", "signed_modular_delta"],
+  "red_event_state": false,
+  "permutation_replicates": 5000,
+  "random_period_replicates": 5000,
+  "random_period_min": 761,
+  "random_period_max": 3301,
+  "rng_seed": 3301,
+  "promotion_alpha": 0.05,
+  "family_statistic": "maximum normalized squared complex projection over the three frozen long periods",
+  "permutation_control": "independently permute each signal within each section, preserving section marginals and canonical carrier positions",
+  "random_period_control": "maximum over three distinct uniform integer periods in the frozen 761..3301 range",
+  "phase_note": "A constant selector-derived phase multiplies a complex projection by a unit-magnitude scalar, so squared magnitude is exactly invariant. Selector phases are audited for equality and are not counted as independent models."
+}
