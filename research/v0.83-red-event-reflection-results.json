@@ -1,0 +1,760 @@
+{
+  "protocol_version": "0.83",
+  "protocol_sha256": "bfffe1b67af8f44c8a8d40fb08565d06f5eaf6ff65f518614a24871c8907e036",
+  "artifact_sha256": "1177e9e9e8aadfbcb29abc7f71138de90fc75c4cb66f309090cae979befc7c36",
+  "corpus_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce",
+  "image_archive_sha256": "7da5bf70bf5770211a2858f2a00e8c109acd768b367c122a15e7f3f5aa335e13",
+  "resamples_per_control": 20000,
+  "primary": {
+    "window_transitions_each_side": 58,
+    "reflection": "(-delta + 8) mod 29",
+    "aggregate": "Within each event average its boundary advantages (JS_identity - JS_reflection); within each page average event scores; within each phase average page scores. This equal-page statistic is primary and positive favors reflection."
+  },
+  "exact_reproductions": {
+    "v072": {
+      "section": "0.11",
+      "boundary_coordinate_0": 1468,
+      "identity_js_bits": 0.15892338402898104,
+      "reflection_js_bits": 0.13311546627302445,
+      "advantage": 0.02580791775595659,
+      "expected_identity_js_bits": 0.15892338402898104,
+      "expected_reflection_js_bits": 0.13311546627302442,
+      "status": "EXACT_REPRODUCTION_NOT_NEW_EVIDENCE"
+    }
+  },
+  "new_results": {
+    "discovery": {
+      "phase": "discovery",
+      "section": "0.6",
+      "event_count": 4,
+      "unique_boundary_count": 4,
+      "observed": {
+        "aggregate": -0.023790333951159752,
+        "positive_pages": 0,
+        "page_count": 2,
+        "pages": [
+          {
+            "page": 3,
+            "event_ids": [
+              "p03-punctuation",
+              "p03-heading-2"
+            ],
+            "score": -0.02822282906324728
+          },
+          {
+            "page": 6,
+            "event_ids": [
+              "p06-punctuation",
+              "p06-heading"
+            ],
+            "score": -0.019357838839072224
+          }
+        ],
+        "events": [
+          {
+            "id": "p03-punctuation",
+            "page": 3,
+            "section": "0.6",
+            "kind": "punctuation",
+            "boundaries": [
+              {
+                "position": 119,
+                "identity_js_bits": 0.2159335396504222,
+                "reflection_js_bits": 0.253618350449797,
+                "advantage": -0.03768481079937483
+              }
+            ],
+            "score": -0.03768481079937483
+          },
+          {
+            "id": "p03-heading-2",
+            "page": 3,
+            "section": "0.6",
+            "kind": "heading",
+            "boundaries": [
+              {
+                "position": 119,
+                "identity_js_bits": 0.2159335396504222,
+                "reflection_js_bits": 0.253618350449797,
+                "advantage": -0.03768481079937483
+              },
+              {
+                "position": 122,
+                "identity_js_bits": 0.2766085948428019,
+                "reflection_js_bits": 0.27644547869766656,
+                "advantage": 0.00016311614513536687
+              }
+            ],
+            "score": -0.01876084732711973
+          },
+          {
+            "id": "p06-punctuation",
+            "page": 6,
+            "section": "0.6",
+            "kind": "punctuation",
+            "boundaries": [
+              {
+                "position": 812,
+                "identity_js_bits": 0.26701945412329325,
+                "reflection_js_bits": 0.2918284244558586,
+                "advantage": -0.02480897033256535
+              }
+            ],
+            "score": -0.02480897033256535
+          },
+          {
+            "id": "p06-heading",
+            "page": 6,
+            "section": "0.6",
+            "kind": "heading",
+            "boundaries": [
+              {
+                "position": 812,
+                "identity_js_bits": 0.26701945412329325,
+                "reflection_js_bits": 0.2918284244558586,
+                "advantage": -0.02480897033256535
+              },
+              {
+                "position": 823,
+                "identity_js_bits": 0.23036950551859003,
+                "reflection_js_bits": 0.23337394987718288,
+                "advantage": -0.003004444358592845
+              }
+            ],
+            "score": -0.013906707345579097
+          }
+        ]
+      },
+      "controls": {
+        "matched_nonred_boundaries": {
+          "resamples": 20000,
+          "mean": -0.02535805428997582,
+          "sd": 0.023319511319147147,
+          "z": 0.06722783841224175,
+          "exceedances": 9626,
+          "p_raw": 0.48132593370331483,
+          "p_bonferroni_3": 1
+        },
+        "randomized_event_positions": {
+          "resamples": 20000,
+          "mean": -0.026041295406791818,
+          "sd": 0.02644327567548712,
+          "z": 0.0851241534239536,
+          "exceedances": 9527,
+          "p_raw": 0.47637618119094044,
+          "p_bonferroni_3": 1
+        },
+        "within_page_rune_permutation": {
+          "resamples": 20000,
+          "mean": 0.00011710706297237146,
+          "sd": 0.035386343156325814,
+          "z": -0.6756120831281298,
+          "exceedances": 15101,
+          "p_raw": 0.7550622468876557,
+          "p_bonferroni_3": 1
+        }
+      },
+      "criteria": {
+        "reflection_beats_identity": false,
+        "positive_pages_at_least_2": false,
+        "all_three_bonferroni_controls": false,
+        "passes": false
+      }
+    },
+    "heldout": {
+      "phase": "heldout",
+      "section": "0.12",
+      "event_count": 4,
+      "unique_boundary_count": 4,
+      "observed": {
+        "aggregate": 0.020985786828920206,
+        "positive_pages": 1,
+        "page_count": 3,
+        "pages": [
+          {
+            "page": 49,
+            "event_ids": [
+              "p49-base60-red"
+            ],
+            "score": 0.08142106412117475
+          },
+          {
+            "page": 53,
+            "event_ids": [
+              "p53-long-passage",
+              "p53-punctuation"
+            ],
+            "score": -0.008752577478685873
+          },
+          {
+            "page": 54,
+            "event_ids": [
+              "p54-heading"
+            ],
+            "score": -0.00971112615572825
+          }
+        ],
+        "events": [
+          {
+            "id": "p49-base60-red",
+            "page": 49,
+            "section": "0.12",
+            "kind": "numeric_object",
+            "boundaries": [
+              {
+                "position": 2474,
+                "identity_js_bits": 0.24519127329881488,
+                "reflection_js_bits": 0.16377020917764012,
+                "advantage": 0.08142106412117475
+              }
+            ],
+            "score": 0.08142106412117475
+          },
+          {
+            "id": "p53-long-passage",
+            "page": 53,
+            "section": "0.12",
+            "kind": "long_passage",
+            "boundaries": [
+              {
+                "position": 2957,
+                "identity_js_bits": 0.1811732815367967,
+                "reflection_js_bits": 0.15233726457174157,
+                "advantage": 0.02883601696505514
+              },
+              {
+                "position": 3008,
+                "identity_js_bits": 0.29515625491207514,
+                "reflection_js_bits": 0.316438363872008,
+                "advantage": -0.021282108959932877
+              }
+            ],
+            "score": 0.003776954002561131
+          },
+          {
+            "id": "p53-punctuation",
+            "page": 53,
+            "section": "0.12",
+            "kind": "punctuation",
+            "boundaries": [
+              {
+                "position": 3008,
+                "identity_js_bits": 0.29515625491207514,
+                "reflection_js_bits": 0.316438363872008,
+                "advantage": -0.021282108959932877
+              }
+            ],
+            "score": -0.021282108959932877
+          },
+          {
+            "id": "p54-heading",
+            "page": 54,
+            "section": "0.12",
+            "kind": "heading",
+            "boundaries": [
+              {
+                "position": 3008,
+                "identity_js_bits": 0.29515625491207514,
+                "reflection_js_bits": 0.316438363872008,
+                "advantage": -0.021282108959932877
+              },
+              {
+                "position": 3017,
+                "identity_js_bits": 0.2623480050405443,
+                "reflection_js_bits": 0.2604881483920679,
+                "advantage": 0.0018598566484763768
+              }
+            ],
+            "score": -0.00971112615572825
+          }
+        ]
+      },
+      "controls": {
+        "matched_nonred_boundaries": {
+          "resamples": 20000,
+          "mean": 0.011458175260547248,
+          "sd": 0.02081825043954343,
+          "z": 0.4576566890691085,
+          "exceedances": 6464,
+          "p_raw": 0.3232338383080846,
+          "p_bonferroni_3": 0.9697015149242538
+        },
+        "randomized_event_positions": {
+          "resamples": 20000,
+          "mean": 0.012110365837032617,
+          "sd": 0.02433091598260476,
+          "z": 0.36477956679612955,
+          "exceedances": 7626,
+          "p_raw": 0.38133093345332736,
+          "p_bonferroni_3": 1
+        },
+        "within_page_rune_permutation": {
+          "resamples": 20000,
+          "mean": -0.0002610167309095807,
+          "sd": 0.03379715243755421,
+          "z": 0.6286566183079106,
+          "exceedances": 5227,
+          "p_raw": 0.26138693065346735,
+          "p_bonferroni_3": 0.7841607919604021
+        }
+      },
+      "criteria": {
+        "reflection_beats_identity": true,
+        "positive_pages_at_least_2": false,
+        "all_three_bonferroni_controls": false,
+        "passes": false
+      }
+    }
+  },
+  "secondary_descriptive": {
+    "status": "DESCRIPTIVE_ONLY",
+    "event_counts": {
+      "all_image_events": 41,
+      "unsolved_events": 37,
+      "solved_control_events": 4,
+      "eligible_unsolved_events": 19,
+      "eligible_boundary_occurrences": 25,
+      "unique_eligible_section_boundaries": 18
+    },
+    "eligibility_by_section": {
+      "0.5": {
+        "events": 2,
+        "eligible_events": 0,
+        "unique_valid_boundaries": [],
+        "status": "no_complete_58_transition_window"
+      },
+      "0.6": {
+        "events": 6,
+        "eligible_events": 4,
+        "unique_valid_boundaries": [
+          119,
+          122,
+          812,
+          823
+        ],
+        "status": "eligible"
+      },
+      "0.7": {
+        "events": 2,
+        "eligible_events": 0,
+        "unique_valid_boundaries": [],
+        "status": "no_complete_58_transition_window"
+      },
+      "0.8": {
+        "events": 4,
+        "eligible_events": 0,
+        "unique_valid_boundaries": [],
+        "status": "no_complete_58_transition_window"
+      },
+      "0.9": {
+        "events": 2,
+        "eligible_events": 0,
+        "unique_valid_boundaries": [],
+        "status": "no_complete_58_transition_window"
+      },
+      "0.10": {
+        "events": 2,
+        "eligible_events": 0,
+        "unique_valid_boundaries": [],
+        "status": "no_complete_58_transition_window"
+      },
+      "0.11": {
+        "events": 13,
+        "eligible_events": 11,
+        "unique_valid_boundaries": [
+          91,
+          99,
+          754,
+          893,
+          984,
+          1082,
+          1178,
+          1307,
+          1468,
+          1471
+        ],
+        "status": "historical_discovery_only"
+      },
+      "0.12": {
+        "events": 6,
+        "eligible_events": 4,
+        "unique_valid_boundaries": [
+          2474,
+          2957,
+          3008,
+          3017
+        ],
+        "status": "eligible"
+      }
+    },
+    "boundary_window_statistics": [
+      {
+        "event_id": "p03-heading-2",
+        "page": 3,
+        "section": "0.6",
+        "position": 119,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.362652444210322,
+          "directed_bigram_entropy_bits": 5.85798099512757,
+          "outside_window_forbidden_bigram_rate": 0.29310344827586204,
+          "section_rare_bigram_rate": 0.6896551724137931
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.25564139220434,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.20689655172413793,
+          "section_rare_bigram_rate": 0.4482758620689655
+        }
+      },
+      {
+        "event_id": "p03-heading-2",
+        "page": 3,
+        "section": "0.6",
+        "position": 122,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.321884720475834,
+          "directed_bigram_entropy_bits": 5.85798099512757,
+          "outside_window_forbidden_bigram_rate": 0.27586206896551724,
+          "section_rare_bigram_rate": 0.6724137931034483
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.290124150825029,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.1724137931034483,
+          "section_rare_bigram_rate": 0.4482758620689655
+        }
+      },
+      {
+        "event_id": "p06-heading",
+        "page": 6,
+        "section": "0.6",
+        "position": 812,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.325328357376174,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.22413793103448276,
+          "section_rare_bigram_rate": 0.6551724137931034
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.489289995381811,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.27586206896551724,
+          "section_rare_bigram_rate": 0.6724137931034483
+        }
+      },
+      {
+        "event_id": "p06-heading",
+        "page": 6,
+        "section": "0.6",
+        "position": 823,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.400578839731351,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.15517241379310345,
+          "section_rare_bigram_rate": 0.6206896551724138
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.50230529714325,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.25862068965517243,
+          "section_rare_bigram_rate": 0.6896551724137931
+        }
+      },
+      {
+        "event_id": "p33-heading-2",
+        "page": 33,
+        "section": "0.11",
+        "position": 91,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.3812785728561146,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.1724137931034483,
+          "section_rare_bigram_rate": 0.5
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.446800453197153,
+          "directed_bigram_entropy_bits": 5.754532719265501,
+          "outside_window_forbidden_bigram_rate": 0.1896551724137931,
+          "section_rare_bigram_rate": 0.4482758620689655
+        }
+      },
+      {
+        "event_id": "p33-heading-2",
+        "page": 33,
+        "section": "0.11",
+        "position": 99,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.392572056167384,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.22413793103448276,
+          "section_rare_bigram_rate": 0.5
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.428776633238242,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.1724137931034483,
+          "section_rare_bigram_rate": 0.46551724137931033
+        }
+      },
+      {
+        "event_id": "p36-numeral-1",
+        "page": 36,
+        "section": "0.11",
+        "position": 754,
+        "before": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.427054814788073,
+          "directed_bigram_entropy_bits": 5.754532719265502,
+          "outside_window_forbidden_bigram_rate": 0.1206896551724138,
+          "section_rare_bigram_rate": 0.3793103448275862
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.338343659137613,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.13793103448275862,
+          "section_rare_bigram_rate": 0.3793103448275862
+        }
+      },
+      {
+        "event_id": "p37-numeral-2",
+        "page": 37,
+        "section": "0.11",
+        "position": 893,
+        "before": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.6204906932169285,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.2413793103448276,
+          "section_rare_bigram_rate": 0.39655172413793105
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.415039883546349,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.13793103448275862,
+          "section_rare_bigram_rate": 0.43103448275862066
+        }
+      },
+      {
+        "event_id": "p37-numeral-3",
+        "page": 37,
+        "section": "0.11",
+        "position": 984,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.305582718967094,
+          "directed_bigram_entropy_bits": 5.85798099512757,
+          "outside_window_forbidden_bigram_rate": 0.1724137931034483,
+          "section_rare_bigram_rate": 0.43103448275862066
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.4779965120705425,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.13793103448275862,
+          "section_rare_bigram_rate": 0.41379310344827586
+        }
+      },
+      {
+        "event_id": "p37-numeral-4",
+        "page": 37,
+        "section": "0.11",
+        "position": 1082,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.412317694576465,
+          "directed_bigram_entropy_bits": 5.85798099512757,
+          "outside_window_forbidden_bigram_rate": 0.1206896551724138,
+          "section_rare_bigram_rate": 0.39655172413793105
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.48255965873417,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.15517241379310345,
+          "section_rare_bigram_rate": 0.5517241379310345
+        }
+      },
+      {
+        "event_id": "p38-numeral-5",
+        "page": 38,
+        "section": "0.11",
+        "position": 1178,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.456974426745135,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.15517241379310345,
+          "section_rare_bigram_rate": 0.46551724137931033
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.386287091053585,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.08620689655172414,
+          "section_rare_bigram_rate": 0.3448275862068966
+        }
+      },
+      {
+        "event_id": "p38-punctuation",
+        "page": 38,
+        "section": "0.11",
+        "position": 1307,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.6029122447918605,
+          "directed_bigram_entropy_bits": 5.85798099512757,
+          "outside_window_forbidden_bigram_rate": 0.1724137931034483,
+          "section_rare_bigram_rate": 0.5
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.415761331476804,
+          "directed_bigram_entropy_bits": 5.754532719265502,
+          "outside_window_forbidden_bigram_rate": 0.10344827586206896,
+          "section_rare_bigram_rate": 0.3620689655172414
+        }
+      },
+      {
+        "event_id": "p39-heading",
+        "page": 39,
+        "section": "0.11",
+        "position": 1468,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.515320598904689,
+          "directed_bigram_entropy_bits": 5.638069141641994,
+          "outside_window_forbidden_bigram_rate": 0.1206896551724138,
+          "section_rare_bigram_rate": 0.41379310344827586
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.398857021281183,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.06896551724137931,
+          "section_rare_bigram_rate": 0.3620689655172414
+        }
+      },
+      {
+        "event_id": "p39-heading",
+        "page": 39,
+        "section": "0.11",
+        "position": 1471,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.522050935552332,
+          "directed_bigram_entropy_bits": 5.672551900262683,
+          "outside_window_forbidden_bigram_rate": 0.1206896551724138,
+          "section_rare_bigram_rate": 0.4482758620689655
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.46109220187492,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.08620689655172414,
+          "section_rare_bigram_rate": 0.3793103448275862
+        }
+      },
+      {
+        "event_id": "p49-base60-red",
+        "page": 49,
+        "section": "0.12",
+        "position": 2474,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.43333977990187,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.017241379310344827,
+          "section_rare_bigram_rate": 0.1206896551724138
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.467822538522561,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.017241379310344827,
+          "section_rare_bigram_rate": 0.08620689655172414
+        }
+      },
+      {
+        "event_id": "p53-long-passage",
+        "page": 53,
+        "section": "0.12",
+        "position": 2957,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.48255965873417,
+          "directed_bigram_entropy_bits": 5.685567202024122,
+          "outside_window_forbidden_bigram_rate": 0.017241379310344827,
+          "section_rare_bigram_rate": 0.05172413793103448
+        },
+        "after": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.46782253852256,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.034482758620689655,
+          "section_rare_bigram_rate": 0.08620689655172414
+        }
+      },
+      {
+        "event_id": "p54-heading",
+        "page": 54,
+        "section": "0.12",
+        "position": 3008,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.441791934999682,
+          "directed_bigram_entropy_bits": 5.85798099512757,
+          "outside_window_forbidden_bigram_rate": 0.017241379310344827,
+          "section_rare_bigram_rate": 0.06896551724137931
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.2869565903213,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.06896551724137931,
+          "section_rare_bigram_rate": 0.10344827586206896
+        }
+      },
+      {
+        "event_id": "p54-heading",
+        "page": 54,
+        "section": "0.12",
+        "position": 3017,
+        "before": {
+          "adjacent_repeat_rate": 0,
+          "delta_entropy_bits": 4.5153205989046885,
+          "directed_bigram_entropy_bits": 5.789015477886191,
+          "outside_window_forbidden_bigram_rate": 0.034482758620689655,
+          "section_rare_bigram_rate": 0.10344827586206896
+        },
+        "after": {
+          "adjacent_repeat_rate": 0.017241379310344827,
+          "delta_entropy_bits": 4.323606538926003,
+          "directed_bigram_entropy_bits": 5.823498236506881,
+          "outside_window_forbidden_bigram_rate": 0.05172413793103448,
+          "section_rare_bigram_rate": 0.08620689655172414
+        }
+      }
+    ]
+  },
+  "hard_negative_guards": [
+    "Do not retest or rescue v0.81 literal long-carrier periods 761, 1033, or 3301.",
+    "Do not retest or rescue the v0.82 protocol-derived address/index/state-selector family.",
+    "Do not use protocol numbers, plaintext, language scores, red intensity, alternative offsets, alternative transforms, optimized windows, or selected favorable events."
+  ],
+  "plaintext_generated": false,
+  "decision": "NO_RED_EVENT_REFLECTION_STATE_EVIDENCE"
+}
