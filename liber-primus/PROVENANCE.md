@@ -60,3 +60,22 @@ recorded only as arithmetic observation; the image supplies no 7×13 geometry.
 
 Discovery sections are `0.5`, `0.6`, `0.7`, `0.9`, and `0.10`. Held-out
 sections are `0.8`, `0.11`, and `0.12`.
+
+## v0.83 original-image red channel
+
+The complete 58-image `original-onion7` archive was ingested byte-for-byte
+from upstream commit `1ccf9583b7064ffd6feb52a49442311048295b41` before the
+v0.83 red-transition replication was scored.
+
+- Ordered image-archive SHA-256: `7da5bf70bf5770211a2858f2a00e8c109acd768b367c122a15e7f3f5aa335e13`
+- Original onion `index.html` SHA-256: `9d515f2c170c44ab0f5acbdc7ba2de2be62cc07b132ab7f9609532b3b5622e80`
+- Signed message SHA-256: `d5473236dee152c7744f561e5ace95908876ec01d43467c28af1b0c1aa14cc54`
+- Red-event artifact: `liber-primus/v0.83-red-events.json`
+- Red-event artifact SHA-256: `1177e9e9e8aadfbcb29abc7f71138de90fc75c4cb66f309090cae979befc7c36`
+
+The artifact preserves all 41 image-authoritative events, including page,
+section, raw and frozen-analysis rune positions, run length, rune values,
+event class, boundary relationship, and recoverable pixel coordinates. A
+frozen binary red mask and two independent robustness masks identify the same
+25 red-bearing pages. Red intensity is not interpreted numerically. Pages 53
+and 54 remain separate events at their shared page boundary.

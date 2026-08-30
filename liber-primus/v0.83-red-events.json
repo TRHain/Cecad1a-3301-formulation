@@ -1,0 +1,1742 @@
+{
+  "artifact": "v0.83 image-authoritative Liber Primus red-event provenance",
+  "source": {
+    "upstream_repository": "https://github.com/krisyotam/cicada3301.git",
+    "upstream_commit": "1ccf9583b7064ffd6feb52a49442311048295b41",
+    "image_path": "liber-primus/original-onion7/{0..57}.jpg",
+    "image_count": 58,
+    "image_dimensions_px": [
+      2400,
+      3600
+    ],
+    "image_archive_sha256": "7da5bf70bf5770211a2858f2a00e8c109acd768b367c122a15e7f3f5aa335e13",
+    "image_sha256": {
+      "0": "197e1e153958b9a2736b09c10eea7d8bb00e0632fd22a8d9606840becc79942e",
+      "1": "f804fae06a68315eb6206158a2b34f55fe157c7d663fa961639fbe8dfc52a39f",
+      "2": "74e955ebe248e6d7442e2d2cd3029951f258017987d5762f48e7897cf6611e34",
+      "3": "1453ef27ea607c6ea378d6472c908e77c2881caba33c72d1893caddee8dc1117",
+      "4": "72bea2bfcd4f1b8e2095f882811d0f294e329d4b1bfe68f8ed5ec726d0a1e9d6",
+      "5": "bcef0a3b80532b25a013052ec4394ab47ab69ce675b5b3db59cbad044e7adabd",
+      "6": "4c7dce370242c67a7b785828d75547c042717b221d9d565d7dd097834c7b25d7",
+      "7": "91a726a7dd59c6caa4d736b9ce72ceba0a2fa827d6b69a2d4057562b9303636c",
+      "8": "6b1026dfdfb447a5a76819883fe576254e8a47fdf1e97ecf1825166833bc6f00",
+      "9": "b8b7ee73d51de45833b36d864cb1c9067432cb4efadcf6c319eaef94d52c929d",
+      "10": "1716e282c1d5e8a9ff911c01621e9b195d4728c7fa55ac857176a473eaba3239",
+      "11": "26f0cb307a23dcb2adf03a70fb9c6da89746258a90fd9be5383b2757ab4aad30",
+      "12": "6961f3f8eedba5b802fee9b40ad91fa604cd4e4394f9ba72853141ad71b19b21",
+      "13": "3481daeed3ab2bea6effbe36eec22f74955bce87ca4b4ae8674be1d3f84ea08d",
+      "14": "861037ea304b4d3b347cce18d97f25146f6f318cb748e59e6140d9eeaef6abd4",
+      "15": "5543cfce96493b86eece3195b3f5ea6e779ff41551676600b0c2479fc18c0ec5",
+      "16": "39780578c48d318310c3bccb0bc30e96adcb5b2de6e4a965000c55465375861d",
+      "17": "f123b66eefa1b4409750c5ea3879bfe64728c6aa1e1398cb8fbd0fa8b1cf1f50",
+      "18": "90fa414c464e86435bdb22f051f9670e886e3dd1c0b6d8954be94b86188da94b",
+      "19": "b57ec6b12cb9a505eec6a77c64ddf63bf30a1bfb44dd5cdca35d900feed1b651",
+      "20": "1ceef52570621785a021febff39003538f810179e5767ef5279a59c0c05c9985",
+      "21": "c453ad16212b335a065069e9f755791b909225ed250b579eab205655e7a80c10",
+      "22": "e232eb4649f89125d0edeab7022cbe189185d46ccbf0823fd964b6e71e9bafe7",
+      "23": "d31a23cb3a2e50b505e1c468ffbb0106f5353f469bb5958b87ab929fc88decee",
+      "24": "62148ef272d17bcedf5df30f6cc9e52df127113c18c1cf57ea92c75feedfce80",
+      "25": "a7d6e597debff4f7c5b3516e1b02ca2e4fa5b37d972f567264ed2ec845013cff",
+      "26": "ed88f5fcdca3d1f846538caa8be979aa28cde969eb99c9464d60daa26c1f9af7",
+      "27": "c92c972f41dd038e136d8589aa7b113e268c36f2860c279cce712cd037cb3a8e",
+      "28": "318bb587f4dcab11b4db7ba3b8bb13b7913ca79bb409e1c987595503a22e0522",
+      "29": "6f769f266865ddb30b0cb34e82c664a87ba409f674dc52ad3af7c85be443fb5c",
+      "30": "701b66d1fe98f730dadc5d7d8e1bc3b9a8e20547c1ffb423011f436037dba8b0",
+      "31": "0cb60ca12b1bf5f9fc03026314018a0d5ee73f813ac86ca4197629c60f2cb80a",
+      "32": "c0f778187a8e9ddbfc667a65929ac567430a2e38278a2022377984ac084e5f72",
+      "33": "13ff4c8d8ab934032a001b8c1fda16433aa44a38dd7272b3ff0dd7ac8300c62d",
+      "34": "6f1b4c04b64ee54c689478bd3986bb6ab8a3b81f48780562094e9f248e4e87f8",
+      "35": "d713dd913d9b835ac61f298e8c0855f5093599e348edaedef964710db8664afa",
+      "36": "3b54a31a9e796e2c01b4e80d46e1092dee2e1142a7c61873e282078e2c776cb9",
+      "37": "cee96d7e71b7de4d4e57237faacefad791229c153202e8224e4bedda45fb8f43",
+      "38": "aec1898f599f57265d6422f3082a481db94a27f62230affbadee595d05077f8c",
+      "39": "d1b7ea5a6ffb79709753e3565d1d46e05edbe3d82ca70c3ed6065d46b131bd00",
+      "40": "3f5af995b39f94f268d4aa94825a10f2429f4a3affa1921a7f627e6d1bfcfb69",
+      "41": "134052dd794a7d11185cc6d942de3f9839bd2b767e0845b0f059f711b269bee2",
+      "42": "e523427112ec6259e97d1711f0420469d961324dedb7dc4eac67ecd9543729f6",
+      "43": "dc4cf22565ccabb2b3d366eb8bd6b74520e3169133a7bd725373aad2f49ac415",
+      "44": "463cf95229ccb6ae179cdd0fce2338df9f616da0db38813573a9fb1706846208",
+      "45": "898b614af5473937a9abfcdc618160ba80ea44b07d4a479da4526be6e33f28d9",
+      "46": "05538b8ebf9ed2a5716d94284a753dd26582a0227f139cc4a27dc3f07b15d301",
+      "47": "08ed86be5561c09ce5c773d8001b290cc505436db89637d66ea0f5a15818d1c8",
+      "48": "341da69e9d579528dd17b7659e23de210720429111dc76c512843eb1983100ea",
+      "49": "aa3f89156756edf8b796a470a14a3db96516ad2fedf1ed98ccabc1a1cddc0335",
+      "50": "bd6d4a3678fa37197bd43c58861273dc59604b5b68dfa20de1ec13f0704be776",
+      "51": "2b9d60f62b2bc65d040f7ae1bc0960d5a44ca251d2730d049a618074a83e208b",
+      "52": "d34a38f51759284f68fb916122ed6774c3b498dddb5537929355ac674453a0f3",
+      "53": "4ec7293ba72bd52384787646d204c8a68fefaf2d22673c40d27f23812d424548",
+      "54": "dbc2cfca46a150689e60ea83015dcd54ace81245711fefe114d6076b96412ec4",
+      "55": "a80191592add93a86ed3868f9e4e6ba3944ec20c9ffccc7d3e221b461344beba",
+      "56": "a4c1c9ae1246c3197fc1d7bd0155cbc97f60d4bba84a104d45f180feab1814dc",
+      "57": "1dabc100ddbf1fc49715219636984eb6ad96a2bd8035e196c12e66db77a1077b"
+    },
+    "onion_index_sha256": "9d515f2c170c44ab0f5acbdc7ba2de2be62cc07b132ab7f9609532b3b5622e80",
+    "signed_message_sha256": "d5473236dee152c7744f561e5ace95908876ec01d43467c28af1b0c1aa14cc54",
+    "corpus_path": "liber-primus/runes-text.txt",
+    "corpus_sha256": "5e0003aa7f7dde3b238d17c5f964790dbf6bf9db5edacc4a5ec0bad81c6f4bce"
+  },
+  "binary_red_extraction": {
+    "frozen_mask": "R>120 and R-G>45 and R-B>45",
+    "robustness_masks": [
+      "R>100 and R-G>25 and R-B>25",
+      "R>140 and G<130 and B<130"
+    ],
+    "threshold_agreement": "all three masks identify exactly the same 25 red-bearing pages",
+    "red_pages": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8,
+      14,
+      15,
+      22,
+      23,
+      26,
+      27,
+      32,
+      33,
+      36,
+      37,
+      38,
+      39,
+      40,
+      49,
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "policy": "binary glyph-level channel only; JPEG red intensity is not interpreted numerically"
+  },
+  "page_index_rule": "Images are printed pages 0..57. Transcription page 50 is absent; after raw delimiter 49, printed page = raw page + 1.",
+  "page36_geometry_guard": "The original five-row object has 99 runes. The frozen 91-rune transcription exclusion is not intrinsic geometry.",
+  "event_count": 41,
+  "events": [
+    {
+      "id": "p00-heading",
+      "page": 0,
+      "section": "0.5",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          667,
+          1443,
+          1164
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        13
+      ],
+      "run_length": 13,
+      "runes": "ᛋᚻᛖᚩᚷᛗᛡᚠᛋᚣᛖᛝᚳ",
+      "rune_values": [
+        15,
+        8,
+        18,
+        3,
+        6,
+        19,
+        27,
+        0,
+        15,
+        26,
+        18,
+        21,
+        5
+      ],
+      "source_lines_inclusive": [
+        1,
+        1
+      ],
+      "raw_global_rune_range_0_half_open": [
+        0,
+        13
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        0,
+        13
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        13
+      ],
+      "boundary_positions_section_0": [
+        0,
+        13
+      ]
+    },
+    {
+      "id": "p02-punctuation",
+      "page": 2,
+      "section": "0.5",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1626,
+          2194,
+          1664,
+          2278
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 201,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 729,
+      "section_rune_position_0": 729,
+      "boundary_positions_section_0": [
+        729
+      ]
+    },
+    {
+      "id": "p03-heading-1",
+      "page": 3,
+      "section": "0.6",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          670,
+          1598,
+          1164
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        16
+      ],
+      "run_length": 16,
+      "runes": "ᛚᛄᛇᚻᛝᚳᚦᛏᚫᛄᛏᛉᚻᛏᚢᛟ",
+      "rune_values": [
+        20,
+        11,
+        12,
+        8,
+        21,
+        5,
+        2,
+        16,
+        25,
+        11,
+        16,
+        14,
+        8,
+        16,
+        1,
+        22
+      ],
+      "source_lines_inclusive": [
+        39,
+        39
+      ],
+      "raw_global_rune_range_0_half_open": [
+        729,
+        745
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        729,
+        745
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        16
+      ],
+      "boundary_positions_section_0": [
+        0,
+        16
+      ]
+    },
+    {
+      "id": "p03-punctuation",
+      "page": 3,
+      "section": "0.6",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1356,
+          1629,
+          1394,
+          1713
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph separator immediately before the second heading",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 119,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 848,
+      "section_rune_position_0": 119,
+      "boundary_positions_section_0": [
+        119
+      ]
+    },
+    {
+      "id": "p03-heading-2",
+      "page": 3,
+      "section": "0.6",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          2099,
+          972,
+          2591
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph start after red punctuation; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        119,
+        122
+      ],
+      "run_length": 3,
+      "runes": "ᛈᛞᚦ",
+      "rune_values": [
+        13,
+        23,
+        2
+      ],
+      "source_lines_inclusive": [
+        46,
+        46
+      ],
+      "raw_global_rune_range_0_half_open": [
+        848,
+        851
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        848,
+        851
+      ],
+      "section_rune_range_0_half_open": [
+        119,
+        122
+      ],
+      "boundary_positions_section_0": [
+        119,
+        122
+      ]
+    },
+    {
+      "id": "p06-punctuation",
+      "page": 6,
+      "section": "0.6",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          742,
+          1252,
+          781,
+          1337
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph separator immediately before the heading",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 71,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 1541,
+      "section_rune_position_0": 812,
+      "boundary_positions_section_0": [
+        812
+      ]
+    },
+    {
+      "id": "p06-heading",
+      "page": 6,
+      "section": "0.6",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          1722,
+          1370,
+          2217
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph start after red punctuation; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        71,
+        82
+      ],
+      "run_length": 11,
+      "runes": "ᚪᛏᛉᛒᛗᚷᛡᛋᛒᛉᛇ",
+      "rune_values": [
+        24,
+        16,
+        14,
+        17,
+        19,
+        6,
+        27,
+        15,
+        17,
+        14,
+        12
+      ],
+      "source_lines_inclusive": [
+        83,
+        83
+      ],
+      "raw_global_rune_range_0_half_open": [
+        1541,
+        1552
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        1541,
+        1552
+      ],
+      "section_rune_range_0_half_open": [
+        812,
+        823
+      ],
+      "boundary_positions_section_0": [
+        812,
+        823
+      ]
+    },
+    {
+      "id": "p07-short-run",
+      "page": 7,
+      "section": "0.6",
+      "solved_control": false,
+      "kind": "short_run",
+      "image_bboxes_inclusive_px": [
+        [
+          723,
+          2458,
+          1672,
+          2572
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "standalone sentence; ends at page and section punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        194,
+        208
+      ],
+      "run_length": 14,
+      "runes": "ᛞᚩᛟᛏᚦᚫᚳᚹᛄᛉᛠᚷᛠᛗ",
+      "rune_values": [
+        23,
+        3,
+        22,
+        16,
+        2,
+        25,
+        5,
+        7,
+        11,
+        14,
+        28,
+        6,
+        28,
+        19
+      ],
+      "source_lines_inclusive": [
+        100,
+        100
+      ],
+      "raw_global_rune_range_0_half_open": [
+        1860,
+        1874
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        1860,
+        1874
+      ],
+      "section_rune_range_0_half_open": [
+        1131,
+        1145
+      ],
+      "boundary_positions_section_0": [
+        1131,
+        1145
+      ]
+    },
+    {
+      "id": "p08-heading",
+      "page": 8,
+      "section": "0.7",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          602,
+          667,
+          1453,
+          1164
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        12
+      ],
+      "run_length": 12,
+      "runes": "ᛉᛁᛉᛗᚢᛉᛗᚳᚦᛈᚩᛒ",
+      "rune_values": [
+        14,
+        10,
+        14,
+        19,
+        1,
+        14,
+        19,
+        5,
+        2,
+        13,
+        3,
+        17
+      ],
+      "source_lines_inclusive": [
+        104,
+        104
+      ],
+      "raw_global_rune_range_0_half_open": [
+        1874,
+        1886
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        1874,
+        1886
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        12
+      ],
+      "boundary_positions_section_0": [
+        0,
+        12
+      ]
+    },
+    {
+      "id": "p14-punctuation",
+      "page": 14,
+      "section": "0.7",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          997,
+          1817,
+          1036,
+          1901
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 137,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 3603,
+      "section_rune_position_0": 1729,
+      "boundary_positions_section_0": [
+        1729
+      ]
+    },
+    {
+      "id": "p15-heading-1",
+      "page": 15,
+      "section": "0.8",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          917,
+          673,
+          1478,
+          786
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; complete sentence",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        9
+      ],
+      "run_length": 9,
+      "runes": "ᚠᚢᛚᛗᚪᛠᚣᛟᚪ",
+      "rune_values": [
+        0,
+        1,
+        20,
+        19,
+        24,
+        28,
+        26,
+        22,
+        24
+      ],
+      "source_lines_inclusive": [
+        191,
+        191
+      ],
+      "raw_global_rune_range_0_half_open": [
+        3603,
+        3612
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        3603,
+        3612
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        9
+      ],
+      "boundary_positions_section_0": [
+        0,
+        9
+      ]
+    },
+    {
+      "id": "p15-number-3299",
+      "page": 15,
+      "section": "0.8",
+      "solved_control": false,
+      "kind": "numeric_object",
+      "image_bboxes_inclusive_px": [
+        [
+          912,
+          1016,
+          1148,
+          1094
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "red 3299 in a 4x4 decimal number array between text blocks",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 9,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 3612,
+      "section_rune_position_0": 9,
+      "boundary_positions_section_0": [
+        9
+      ]
+    },
+    {
+      "id": "p15-heading-2",
+      "page": 15,
+      "section": "0.8",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          1732,
+          1319,
+          2227
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph start below numeric object; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        9,
+        20
+      ],
+      "run_length": 11,
+      "runes": "ᛚᚢᛝᚾᚳᚢᛒᚾᛏᚠᛝ",
+      "rune_values": [
+        20,
+        1,
+        21,
+        9,
+        5,
+        1,
+        17,
+        9,
+        16,
+        0,
+        21
+      ],
+      "source_lines_inclusive": [
+        194,
+        194
+      ],
+      "raw_global_rune_range_0_half_open": [
+        3612,
+        3623
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        3612,
+        3623
+      ],
+      "section_rune_range_0_half_open": [
+        9,
+        20
+      ],
+      "boundary_positions_section_0": [
+        9,
+        20
+      ]
+    },
+    {
+      "id": "p22-punctuation",
+      "page": 22,
+      "section": "0.8",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1631,
+          1700,
+          1668,
+          1785
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 131,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 5506,
+      "section_rune_position_0": 1903,
+      "boundary_positions_section_0": [
+        1903
+      ]
+    },
+    {
+      "id": "p23-heading",
+      "page": 23,
+      "section": "0.9",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          1157,
+          1571,
+          1652
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        16
+      ],
+      "run_length": 16,
+      "runes": "ᚢᚪᚹᛝᚷᛉᛞᚷᛁᛒᛁᛇᛏᛒᛁᚣ",
+      "rune_values": [
+        1,
+        24,
+        7,
+        21,
+        6,
+        14,
+        23,
+        6,
+        10,
+        17,
+        10,
+        12,
+        16,
+        17,
+        10,
+        26
+      ],
+      "source_lines_inclusive": [
+        289,
+        289
+      ],
+      "raw_global_rune_range_0_half_open": [
+        5506,
+        5522
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        5506,
+        5522
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        16
+      ],
+      "boundary_positions_section_0": [
+        0,
+        16
+      ]
+    },
+    {
+      "id": "p26-punctuation",
+      "page": 26,
+      "section": "0.9",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1635,
+          2759,
+          1673,
+          2843
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 265,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 6527,
+      "section_rune_position_0": 1021,
+      "boundary_positions_section_0": [
+        1021
+      ]
+    },
+    {
+      "id": "p27-heading",
+      "page": 27,
+      "section": "0.10",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          913,
+          1721,
+          1408
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        19
+      ],
+      "run_length": 19,
+      "runes": "ᛗᛈᚣᛚᛋᚩᚪᚫᚻᛚᛖᛇᛁᛗᛚᛚᛋᚳᛈ",
+      "rune_values": [
+        19,
+        13,
+        26,
+        20,
+        15,
+        3,
+        24,
+        25,
+        8,
+        20,
+        18,
+        12,
+        10,
+        19,
+        20,
+        20,
+        15,
+        5,
+        13
+      ],
+      "source_lines_inclusive": [
+        341,
+        341
+      ],
+      "raw_global_rune_range_0_half_open": [
+        6527,
+        6546
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        6527,
+        6546
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        19
+      ],
+      "boundary_positions_section_0": [
+        0,
+        19
+      ]
+    },
+    {
+      "id": "p32-punctuation",
+      "page": 32,
+      "section": "0.10",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          930,
+          1629,
+          967,
+          1713
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 121,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 7960,
+      "section_rune_position_0": 1433,
+      "boundary_positions_section_0": [
+        1433
+      ]
+    },
+    {
+      "id": "p33-heading-1",
+      "page": 33,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          667,
+          1306,
+          1164
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        10
+      ],
+      "run_length": 10,
+      "runes": "ᛞᛇᛉᚳᚠᛁᚪᚹᚻᚷ",
+      "rune_values": [
+        23,
+        12,
+        14,
+        5,
+        0,
+        10,
+        24,
+        7,
+        8,
+        6
+      ],
+      "source_lines_inclusive": [
+        414,
+        414
+      ],
+      "raw_global_rune_range_0_half_open": [
+        7960,
+        7970
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        7960,
+        7970
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        10
+      ],
+      "boundary_positions_section_0": [
+        0,
+        10
+      ]
+    },
+    {
+      "id": "p33-punctuation",
+      "page": 33,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1447,
+          1440,
+          1485,
+          1525
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph separator immediately before the second heading",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 91,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 8051,
+      "section_rune_position_0": 91,
+      "boundary_positions_section_0": [
+        91
+      ]
+    },
+    {
+      "id": "p33-heading-2",
+      "page": 33,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          602,
+          1909,
+          1179,
+          2405
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph start after red punctuation; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        91,
+        99
+      ],
+      "run_length": 8,
+      "runes": "ᛝᚦᛇᛁᚠᚳᛟᛇ",
+      "rune_values": [
+        21,
+        2,
+        12,
+        10,
+        0,
+        5,
+        22,
+        12
+      ],
+      "source_lines_inclusive": [
+        420,
+        420
+      ],
+      "raw_global_rune_range_0_half_open": [
+        8051,
+        8059
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        8051,
+        8059
+      ],
+      "section_rune_range_0_half_open": [
+        91,
+        99
+      ],
+      "boundary_positions_section_0": [
+        91,
+        99
+      ]
+    },
+    {
+      "id": "p36-punctuation",
+      "page": 36,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          974,
+          1452,
+          1012,
+          1512
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after the fifth contiguous 99-glyph block row and before numbered paragraph 1",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 99,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 8714,
+      "section_rune_position_0": 754,
+      "boundary_positions_section_0": [
+        754
+      ]
+    },
+    {
+      "id": "p36-numeral-1",
+      "page": 36,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "paragraph_numeral",
+      "image_bboxes_inclusive_px": [
+        [
+          620,
+          1693,
+          644,
+          1784
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph label before the following black runes",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 99,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 8714,
+      "section_rune_position_0": 754,
+      "boundary_positions_section_0": [
+        754
+      ]
+    },
+    {
+      "id": "p37-numeral-2",
+      "page": 37,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "paragraph_numeral",
+      "image_bboxes_inclusive_px": [
+        [
+          605,
+          694,
+          664,
+          787
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page-start paragraph label",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 0,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 8853,
+      "section_rune_position_0": 893,
+      "boundary_positions_section_0": [
+        893
+      ]
+    },
+    {
+      "id": "p37-numeral-3",
+      "page": 37,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "paragraph_numeral",
+      "image_bboxes_inclusive_px": [
+        [
+          607,
+          1538,
+          662,
+          1633
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph label at a sentence boundary",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 91,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 8944,
+      "section_rune_position_0": 984,
+      "boundary_positions_section_0": [
+        984
+      ]
+    },
+    {
+      "id": "p37-numeral-4",
+      "page": 37,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "paragraph_numeral",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          2571,
+          669,
+          2664
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph label at a sentence boundary",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 189,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 9042,
+      "section_rune_position_0": 1082,
+      "boundary_positions_section_0": [
+        1082
+      ]
+    },
+    {
+      "id": "p38-numeral-5",
+      "page": 38,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "paragraph_numeral",
+      "image_bboxes_inclusive_px": [
+        [
+          602,
+          1316,
+          664,
+          1409
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph label at a sentence boundary",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 57,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 9138,
+      "section_rune_position_0": 1178,
+      "boundary_positions_section_0": [
+        1178
+      ]
+    },
+    {
+      "id": "p38-punctuation",
+      "page": 38,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          2541,
+          638,
+          2600
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph separator between black rune blocks",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 186,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 9267,
+      "section_rune_position_0": 1307,
+      "boundary_positions_section_0": [
+        1307
+      ]
+    },
+    {
+      "id": "p39-punctuation-1",
+      "page": 39,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          837,
+          1629,
+          876,
+          1713
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph separator immediately before the red heading that generated v0.72",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 119,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 9428,
+      "section_rune_position_0": 1468,
+      "boundary_positions_section_0": [
+        1468
+      ]
+    },
+    {
+      "id": "p39-heading",
+      "page": 39,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          1852,
+          983,
+          2349
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "paragraph start after red punctuation; v0.72 discovery event; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        119,
+        122
+      ],
+      "run_length": 3,
+      "runes": "ᛡᚳᛋ",
+      "rune_values": [
+        27,
+        5,
+        15
+      ],
+      "source_lines_inclusive": [
+        497,
+        497
+      ],
+      "raw_global_rune_range_0_half_open": [
+        9519,
+        9522
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        9428,
+        9431
+      ],
+      "section_rune_range_0_half_open": [
+        1468,
+        1471
+      ],
+      "boundary_positions_section_0": [
+        1468,
+        1471
+      ]
+    },
+    {
+      "id": "p39-punctuation-2",
+      "page": 39,
+      "section": "0.11",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1540,
+          2814,
+          1578,
+          2898
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 240,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 9549,
+      "section_rune_position_0": 1589,
+      "boundary_positions_section_0": [
+        1589
+      ]
+    },
+    {
+      "id": "p40-heading",
+      "page": 40,
+      "section": "0.12",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          667,
+          1141,
+          1164
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page and section start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        8
+      ],
+      "run_length": 8,
+      "runes": "ᚠᚾᛗᚣᚷᛞᚫᚻ",
+      "rune_values": [
+        0,
+        9,
+        19,
+        26,
+        6,
+        23,
+        25,
+        8
+      ],
+      "source_lines_inclusive": [
+        506,
+        506
+      ],
+      "raw_global_rune_range_0_half_open": [
+        9640,
+        9648
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        9549,
+        9557
+      ],
+      "section_rune_range_0_half_open": [
+        0,
+        8
+      ],
+      "boundary_positions_section_0": [
+        0,
+        8
+      ]
+    },
+    {
+      "id": "p49-base60-red",
+      "page": 49,
+      "section": "0.12",
+      "solved_control": false,
+      "kind": "numeric_object",
+      "image_bboxes_inclusive_px": [
+        [
+          1691,
+          1076,
+          1729,
+          1136
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "red cells in the non-rune base-60 object below the page rune text",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 66,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 12023,
+      "section_rune_position_0": 2474,
+      "boundary_positions_section_0": [
+        2474
+      ]
+    },
+    {
+      "id": "p53-long-passage",
+      "page": 53,
+      "section": "0.12",
+      "solved_control": false,
+      "kind": "long_passage",
+      "image_bboxes_inclusive_px": [
+        [
+          1720,
+          1651,
+          1768,
+          1763
+        ],
+        [
+          601,
+          1874,
+          1723,
+          1987
+        ],
+        [
+          600,
+          2062,
+          1797,
+          2176
+        ],
+        [
+          601,
+          2250,
+          861,
+          2364
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "starts after sentence punctuation with a red isolated first rune; continues for 51 runes to page-end punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        128,
+        179
+      ],
+      "run_length": 51,
+      "runes": "ᛏᛈᚹᛇᛋᚹᛒᛇᚦᚾᚻᚷᛄᚱᛡᛞᛡᚦᚪᛁᛇᚫᛉᛚᛇᛠᛡᚪᛄᚻᚱᚦᛈᛞᛄᛝᚩᚷᚠᛇᛗᚳᚻᛞᚩᛏᚳᚢᚱᛈᚾ",
+      "rune_values": [
+        16,
+        13,
+        7,
+        12,
+        15,
+        7,
+        17,
+        12,
+        2,
+        9,
+        8,
+        6,
+        11,
+        4,
+        27,
+        23,
+        27,
+        2,
+        24,
+        10,
+        12,
+        25,
+        14,
+        20,
+        12,
+        28,
+        27,
+        24,
+        11,
+        8,
+        4,
+        2,
+        13,
+        23,
+        11,
+        21,
+        3,
+        6,
+        0,
+        12,
+        19,
+        5,
+        8,
+        23,
+        3,
+        16,
+        5,
+        1,
+        4,
+        13,
+        9
+      ],
+      "source_lines_inclusive": [
+        650,
+        653
+      ],
+      "raw_global_rune_range_0_half_open": [
+        12597,
+        12648
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        12506,
+        12557
+      ],
+      "section_rune_range_0_half_open": [
+        2957,
+        3008
+      ],
+      "boundary_positions_section_0": [
+        2957,
+        3008
+      ]
+    },
+    {
+      "id": "p53-punctuation",
+      "page": 53,
+      "section": "0.12",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [],
+      "image_coordinate_subregions_inclusive_px": [
+        [
+          822,
+          2265,
+          861,
+          2349
+        ]
+      ],
+      "punctuation_word_boundary_relationship": "page-end punctuation contiguous with the red long passage; its pixels are a subregion of the passage's final band",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 179,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 12557,
+      "section_rune_position_0": 3008,
+      "boundary_positions_section_0": [
+        3008
+      ]
+    },
+    {
+      "id": "p54-heading",
+      "page": 54,
+      "section": "0.12",
+      "solved_control": false,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          914,
+          1232,
+          1408
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "page start; separately bounded from page 53; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        9
+      ],
+      "run_length": 9,
+      "runes": "ᚪᛗᛝᛞᛡᚦᛉᛁᛗ",
+      "rune_values": [
+        24,
+        19,
+        21,
+        23,
+        27,
+        2,
+        14,
+        10,
+        19
+      ],
+      "source_lines_inclusive": [
+        656,
+        656
+      ],
+      "raw_global_rune_range_0_half_open": [
+        12648,
+        12657
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        12557,
+        12566
+      ],
+      "section_rune_range_0_half_open": [
+        3008,
+        3017
+      ],
+      "boundary_positions_section_0": [
+        3008,
+        3017
+      ]
+    },
+    {
+      "id": "p55-punctuation",
+      "page": 55,
+      "section": "0.12",
+      "solved_control": false,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1034,
+          1252,
+          1073,
+          1337
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "after sentence-final punctuation at page and section end",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 76,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 12865,
+      "section_rune_position_0": 3316,
+      "boundary_positions_section_0": [
+        3316
+      ]
+    },
+    {
+      "id": "p56-heading",
+      "page": 56,
+      "section": null,
+      "solved_control": true,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          670,
+          1092,
+          1165
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "solved/control page heading at page start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        5
+      ],
+      "run_length": 5,
+      "runes": "ᚫᛄᛟᛋᚱ",
+      "rune_values": [
+        25,
+        11,
+        22,
+        15,
+        4
+      ],
+      "source_lines_inclusive": [
+        675,
+        675
+      ],
+      "raw_global_rune_range_0_half_open": [
+        12956,
+        12961
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        12865,
+        12870
+      ]
+    },
+    {
+      "id": "p56-punctuation",
+      "page": 56,
+      "section": null,
+      "solved_control": true,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1558,
+          2092,
+          1596,
+          2176
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "solved/control page-end punctuation",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 85,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 12950
+    },
+    {
+      "id": "p57-heading",
+      "page": 57,
+      "section": null,
+      "solved_control": true,
+      "kind": "heading",
+      "image_bboxes_inclusive_px": [
+        [
+          601,
+          915,
+          1178,
+          1518
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "solved/control page heading at page start; ends at sentence punctuation",
+      "rune_stream_role": "rune_run",
+      "page_raw_rune_range_0_half_open": [
+        0,
+        8
+      ],
+      "run_length": 8,
+      "runes": "ᛈᚪᚱᚪᛒᛚᛖᛚ",
+      "rune_values": [
+        13,
+        24,
+        4,
+        24,
+        17,
+        20,
+        18,
+        20
+      ],
+      "source_lines_inclusive": [
+        683,
+        683
+      ],
+      "raw_global_rune_range_0_half_open": [
+        13041,
+        13049
+      ],
+      "analysis_global_rune_range_0_half_open": [
+        12950,
+        12958
+      ]
+    },
+    {
+      "id": "p57-punctuation",
+      "page": 57,
+      "section": null,
+      "solved_control": true,
+      "kind": "punctuation",
+      "image_bboxes_inclusive_px": [
+        [
+          1643,
+          1740,
+          1712,
+          1824
+        ]
+      ],
+      "image_coordinate_subregions_inclusive_px": [],
+      "punctuation_word_boundary_relationship": "solved/control page-end punctuation",
+      "rune_stream_role": "non_rune_event",
+      "page_raw_rune_position_0": 95,
+      "run_length": 0,
+      "analysis_global_rune_position_0": 13045
+    }
+  ]
+}
